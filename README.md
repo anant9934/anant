@@ -508,6 +508,40 @@ All-in-one community rental platform for LPU students — gadgets, books, gear. 
 
 <div align="center">
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                78 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+🌆 Daytime                85 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+🌃 Evening                138 commits         ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
+🌙 Night                  246 commits         ███████████░░░░░░░░░░░░░░   44.97 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+Tuesday                  140 commits         ██████░░░░░░░░░░░░░░░░░░░   25.59 % 
+Wednesday                99 commits          █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
+Thursday                 81 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+Friday                   49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+Saturday                 79 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+Sunday                   57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 02/06/2026 01:33:48 UTC
 <!--END_SECTION:waka-->
 </div>
 
