@@ -1,0 +1,60 @@
+name: Update Spotify Now Playing
+
+on:
+  schedule:
+    - cron: "*/10 * * * *" # Runs every 10 minutes
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/scripts/spotify.py
+
+jobs:
+  update-spotify:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run Spotify Script
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+        run: python .github/scripts/spotify.py
+
+      - name: Push to spotify branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Only push if the SVG was generated
+          if [ -f spotify-now-playing.svg ]; then
+            # Move the SVG to a temp location outside the repo to preserve it
+            mv spotify-now-playing.svg /tmp/
+            
+            # Create a clean orphan branch
+            git checkout --orphan spotify
+            git rm -rf .
+            
+            # Bring the SVG back
+            mv /tmp/spotify-now-playing.svg .
+            
+            # Commit and force push to keep history clean (only 1 commit ever)
+            git add spotify-now-playing.svg
+            git commit -m "Update Spotify Now Playing"
+            git push -f origin spotify
+          else
+            echo "No SVG generated, skipping push."
+          fi

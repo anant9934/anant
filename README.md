@@ -24,6 +24,14 @@
 
 </div>
 
+<br/>
+
+<div align="center">
+  <a href="https://open.spotify.com/user/your_spotify_id">
+    <img src="https://raw.githubusercontent.com/anant9934/anant/spotify/spotify-now-playing.svg" alt="Spotify Now Playing" />
+  </a>
+</div>
+
 ---
 
 <div align="center">
