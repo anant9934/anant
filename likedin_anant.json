@@ -1,0 +1,1588 @@
+[
+  {
+    "urn": {
+      "activity_urn": "7465151519471071232",
+      "share_urn": "7465151518325907458",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7465151519471071232",
+    "posted_at": {
+      "date": "2026-05-26 23:26:58",
+      "relative": "6 days ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1779830818050
+    },
+    "text": "🚀 MILESTONE UNLOCKED: We just got our FIRST REAL ORDER on QuickDorm! 🎉\nAfter countless hours of coding, testing, and pushing dummy data (shoutout to all those ₹1 test orders on the dashboard 😂), seeing a genuine order pop up was an unreal feeling.\nA massive thank you to Prince Singh Chauhan at LPU (BH2) for being our very first official customer! A midnight craving was successfully satisfied, the payment went through perfectly, and the system worked flawlessly end-to-end. ✅\nGoing from a late-night idea to a live platform with actual users is exactly why I love building software. The adrenaline rush of seeing that \"Status: Delivered\" badge on the admin panel makes all the late-night debugging worth it.\nThis is just day one for QuickDorm (QD). To more late-night deliveries and happy hostellers! 🍜⚡\nCheck out the live site here: https://lnkd.in/g9JnVDhx\n#BuildInPublic #FirstOrder #Milestone #WebDevelopment #StudentFounder #LPU #Startups",
+    "url": "https://www.linkedin.com/posts/quantumanant01_buildinpublic-firstorder-milestone-activity-7465151519471071232-QFus?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGlCOOkB_iC-PaqA8um2cpOF-vg31hOE7x8",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Anant",
+      "last_name": "Kumar",
+      "headline": "Chief Executive Officer @ Founders Verbinden | Artificial Intelligence, Machine Learning",
+      "username": "quantumanant01",
+      "profile_url": "https://www.linkedin.com/in/quantumanant01?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAFlkXo4BoqSshmx3wOEx8mBKLWcbdPLS-H0",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D5603AQEHPZBFCcs7pg/profile-displayphoto-crop_800_800/B56ZpKYxEFI4AI-/0/1762184622110?e=1781740800&v=beta&t=dda-Cb-qMAfmjj229OZGjSbgw5yMGQ-joFAjFU6qeQ8"
+    },
+    "stats": {
+      "total_reactions": 28,
+      "like": 27,
+      "support": 0,
+      "love": 0,
+      "insight": 0,
+      "celebrate": 1,
+      "funny": 0,
+      "comments": 1,
+      "reposts": 0
+    },
+    "media": {
+      "type": "image",
+      "url": "https://media.licdn.com/dms/image/v2/D5622AQGfBlQiAmxfmg/feedshare-image-high-res/B56Z5mLv1qGoAU-/0/1779830816478?e=1781740800&v=beta&t=ke0SgVudfI9Yac84CtlfnzJ7ll5P9iDRV1yhviG84WQ",
+      "images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D5622AQGfBlQiAmxfmg/feedshare-image-high-res/B56Z5mLv1qGoAU-/0/1779830816478?e=1781740800&v=beta&t=ke0SgVudfI9Yac84CtlfnzJ7ll5P9iDRV1yhviG84WQ",
+          "width": 2048,
+          "height": 1152
+        }
+      ]
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjczMzkxNTkxMDg4NTM0MjAwMzItMTc0OTc5MTg4NjQ5OA=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7465145599827316738",
+      "share_urn": "7465145598644523010",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7465145599827316738",
+    "posted_at": {
+      "date": "2026-05-26 23:03:26",
+      "relative": "6 days ago • Edited • Visible to anyone on or off LinkedIn",
+      "timestamp": 1779829406697
+    },
+    "text": "🚀 So excited to share what I've been building!\nLate-night study sessions and coding sprints always lead to one thing: midnight cravings. But getting snacks delivered inside the hostel after hours is always a struggle.\nSo, I decided to build a solution. Introducing  QuickDorm (QD)  🍜⚡\nQuickDorm is a platform designed to deliver late-night snacks, cold drinks, and Maggi directly to hostel rooms when cravings hit the hardest. Living the hostel life at Lovely Professional University, I realized there was a massive gap for this kind of service, and I wanted to fix it.\nI just pushed the frontend live (deployed smoothly on Vercel with a fast-commerce inspired light green and yellow UI), and it's ready for action. Building this has been a fantastic experience in taking a real-world problem and turning it into a functional, live product.\nCheck it out here: https://lnkd.in/g9JnVDhx\nWould love to hear your thoughts or feedback! 👇\n#BuildInPublic #WebDevelopment #SoftwareEngineering #StudentFounder #LPU #Vercel",
+    "url": "https://www.linkedin.com/posts/quantumanant01_buildinpublic-webdevelopment-softwareengineering-activity-7465145599827316738-g1pb?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGlCOOkB_iC-PaqA8um2cpOF-vg31hOE7x8",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Anant",
+      "last_name": "Kumar",
+      "headline": "Chief Executive Officer @ Founders Verbinden | Artificial Intelligence, Machine Learning",
+      "username": "quantumanant01",
+      "profile_url": "https://www.linkedin.com/in/quantumanant01?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAFlkXo4BoqSshmx3wOEx8mBKLWcbdPLS-H0",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D5603AQEHPZBFCcs7pg/profile-displayphoto-crop_800_800/B56ZpKYxEFI4AI-/0/1762184622110?e=1781740800&v=beta&t=dda-Cb-qMAfmjj229OZGjSbgw5yMGQ-joFAjFU6qeQ8"
+    },
+    "stats": {
+      "total_reactions": 11,
+      "like": 11,
+      "support": 0,
+      "love": 0,
+      "insight": 0,
+      "celebrate": 0,
+      "funny": 0,
+      "comments": 0,
+      "reposts": 0
+    },
+    "media": {
+      "type": "image",
+      "url": "https://media.licdn.com/dms/image/v2/D5622AQEHmEUk3GmBfQ/feedshare-shrink_1280/B56Z5mGXdFHsAM-/0/1779829405784?e=1781740800&v=beta&t=RUZhGO8ck1jkQny1urKjVaOiZsMEGm2jPQzWPoGoibA",
+      "images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D5622AQEHmEUk3GmBfQ/feedshare-shrink_1280/B56Z5mGXdFHsAM-/0/1779829405784?e=1781740800&v=beta&t=RUZhGO8ck1jkQny1urKjVaOiZsMEGm2jPQzWPoGoibA",
+          "width": 1080,
+          "height": 2392
+        }
+      ]
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjczMzkxNTkxMDg4NTM0MjAwMzItMTc0OTc5MTg4NjQ5OA=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7463694926820573184",
+      "share_urn": null,
+      "ugcPost_urn": "7463694924039753729"
+    },
+    "full_urn": "urn:li:ugcPost:7463694924039753729",
+    "posted_at": {
+      "date": "2026-05-22 22:58:59",
+      "relative": "1 week ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1779483539300
+    },
+    "text": "Just published something I've been thinking about for a while. 🚀\nWhile going through my Software Engineering coursework — SDLC, Requirement Engineering, Agile, the V-Model, DevOps — I kept noticing the same pattern.\nEveryone talks about using AI to write code.\nNobody talks about using it to engineer systems.\nAnd there's a real difference.\nA vague prompt like \"build a food delivery app\" gives you random code that works until it doesn't.\nBut what if you approached it the way a senior architect would?\n\"Act as a senior software architect. Build a scalable food delivery platform with JWT authentication, role-based access, modular backend, CI/CD, Docker support, a testing strategy, database schema, API docs, and a full deployment workflow. Generate: SRS → System Design → Folder Structure → REST APIs → Testing Plan → Deployment Architecture.\"\nThat single shift changes AI from an autocomplete tool into an actual engineering assistant.\nI explored this in my latest article — diving into why Software Engineering fundamentals matter more in the AI era, not less. Topics include Multi-Agent AI systems, AI-Augmented SDLC, AI Technical Debt, DevOps automation, and where things are heading with Large Action Models.\nThe core argument: when code generation becomes cheap, engineering judgment becomes expensive.\nThe engineers who will thrive aren't the ones generating the most code — they're the ones who understand architecture, requirements, and system design well enough to direct AI with precision.\nI'd genuinely love to hear from people actually in the field:\nHas AI improved your engineering workflow — or has it mostly just accelerated output without improving the underlying architecture quality?\nDrop your honest take in the comments. 👇\n#SoftwareEngineering #AI #SystemDesign #DevOps #SoftwareArchitecture",
+    "url": "https://www.linkedin.com/posts/quantumanant01_softwareengineering-ai-systemdesign-activity-7463694926820573184-5El1?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGlCOOkB_iC-PaqA8um2cpOF-vg31hOE7x8",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Anant",
+      "last_name": "Kumar",
+      "headline": "Chief Executive Officer @ Founders Verbinden | Artificial Intelligence, Machine Learning",
+      "username": "quantumanant01",
+      "profile_url": "https://www.linkedin.com/in/quantumanant01?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAFlkXo4BoqSshmx3wOEx8mBKLWcbdPLS-H0",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D5603AQEHPZBFCcs7pg/profile-displayphoto-crop_800_800/B56ZpKYxEFI4AI-/0/1762184622110?e=1781740800&v=beta&t=dda-Cb-qMAfmjj229OZGjSbgw5yMGQ-joFAjFU6qeQ8"
+    },
+    "stats": {
+      "total_reactions": 14,
+      "like": 14,
+      "support": 0,
+      "love": 0,
+      "insight": 0,
+      "celebrate": 0,
+      "funny": 0,
+      "comments": 3,
+      "reposts": 0
+    },
+    "article": {
+      "url": "https://www.linkedin.com/pulse/ai-rewriting-software-engineering-most-developers-still-anant-kumar-rxjjc?trackingId=rPW%2FrG%2FXvJGU0He5lvhVZw%3D%3D",
+      "title": "AI Is Rewriting Software Engineering — But Most Developers Still Think Like It's 2015",
+      "subtitle": "Anant Kumar",
+      "thumbnail": "https://media.licdn.com/dms/image/v2/D5612AQFmTXEP9WLPJA/article-cover_image-shrink_180_320/B56Z5ReNL1GYAU-/0/1779483333615?e=1781740800&v=beta&t=v1xQS5av3XH86TljqZsR6qRKU1QP84M5g4E5Ee394xk"
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjczMzkxNTkxMDg4NTM0MjAwMzItMTc0OTc5MTg4NjQ5OA=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7457327966696521728",
+      "share_urn": "7457327963882135552",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7457327966696521728",
+    "posted_at": {
+      "date": "2026-05-05 09:18:57",
+      "relative": "3 weeks ago • Edited • Visible to anyone on or off LinkedIn",
+      "timestamp": 1777965537714
+    },
+    "text": "Building in silence. Launching with clarity.\nOver the past few weeks, I’ve been working on something that started as a simple idea:\n👉 “Why is gifting still confusing, slow, and generic?”\nThat question turned into a system.\nNot just a website — but a decision-driven custom gifting platform designed to remove friction from:\n• Choosing a gift\n• Personalizing it\n• Delivering it on time\nWe broke it down to fundamentals:\nOccasion → Recipient → Product → Customize → Deliver\nNo noise. No guesswork. Just execution.\nWhat I learned during this process:\nMost platforms focus on design, not decisions\nPersonalization without real preview breaks trust\nSpeed (same-day / fast delivery) is not optional anymore\nSimplicity converts more than features\nWe’re building with a clear principle:\n👉 If it doesn’t help the user decide faster, it doesn’t belong.\nThis is just the beginning.\nThe goal is to evolve this into a full emotional commerce system, not just another gifting site.\nCurrently working on:\n• Customization engine (live preview)\n• Smart recommendation system\n• Seamless checkout + delivery flow\nIf you’re interested in:\nE-commerce, UI/UX systems, or building real products — let’s connect.\nMore updates soon.\n#startup #buildinginpublic #ecommerce #uxdesign #productdevelopment #entrepreneurship",
+    "url": "https://www.linkedin.com/posts/quantumanant01_startup-buildinginpublic-ecommerce-activity-7457327966696521728-gXh8?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGlCOOkB_iC-PaqA8um2cpOF-vg31hOE7x8",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Anant",
+      "last_name": "Kumar",
+      "headline": "Chief Executive Officer @ Founders Verbinden | Artificial Intelligence, Machine Learning",
+      "username": "quantumanant01",
+      "profile_url": "https://www.linkedin.com/in/quantumanant01?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAFlkXo4BoqSshmx3wOEx8mBKLWcbdPLS-H0",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D5603AQEHPZBFCcs7pg/profile-displayphoto-crop_800_800/B56ZpKYxEFI4AI-/0/1762184622110?e=1781740800&v=beta&t=dda-Cb-qMAfmjj229OZGjSbgw5yMGQ-joFAjFU6qeQ8"
+    },
+    "stats": {
+      "total_reactions": 14,
+      "like": 14,
+      "support": 0,
+      "love": 0,
+      "insight": 0,
+      "celebrate": 0,
+      "funny": 0,
+      "comments": 1,
+      "reposts": 0
+    },
+    "media": {
+      "type": "image",
+      "url": "https://media.licdn.com/dms/image/v2/D5622AQEf7NQWklXYIw/feedshare-image-high-res/B56Z33ARB8GUAY-/0/1777965535871?e=1781740800&v=beta&t=NVS2lUn7ML82noNa9gMgK8nLvJ0TLmMWOhCxMmHsUYc",
+      "images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D5622AQEf7NQWklXYIw/feedshare-image-high-res/B56Z33ARB8GUAY-/0/1777965535871?e=1781740800&v=beta&t=NVS2lUn7ML82noNa9gMgK8nLvJ0TLmMWOhCxMmHsUYc",
+          "width": 2048,
+          "height": 1113
+        }
+      ]
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjczMzkxNTkxMDg4NTM0MjAwMzItMTc0OTc5MTg4NjQ5OA=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7449117349351268352",
+      "share_urn": "7449117348638273536",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7449117349351268352",
+    "posted_at": {
+      "date": "2026-04-12 17:32:53",
+      "relative": "1 month ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1776007973993
+    },
+    "text": "🚀 We’re Hiring Mentors | Study LPU Online\nStudents don’t lack information. They lack clarity and direction.\nWe’re building Study LPU Online (https://lnkd.in/gji7Kh9Y) — a platform where students from all backgrounds can connect with mentors who guide them with real, practical insights.\n👨‍🏫 Who we’re looking for:\n• College students, professionals, researchers, creators\n• Anyone with real experience in academics, skills, or career growth\n• People willing to guide others through their journey\n💡 What you’ll do:\n• Conduct short 1:1 mentorship sessions (20–30 mins)\n• Help students with clarity, roadmap, and execution\n• Share your real experience — not theory\n⚙️ What we handle:\n• Student onboarding\n• Scheduling\n• Payments\n• Platform support\n💰 Paid opportunity + flexible involvement\n🌍 Open to mentors from all fields and backgrounds\n👉 Apply here: https://lnkd.in/gpSetv4s\nLet’s build a system where students don’t feel lost — they get guided.\n#mentorship #hiring #students #careerguidance #education #linkedinindia #growth",
+    "url": "https://www.linkedin.com/posts/quantumanant01_study-lpu-mentor-onboarding-form-surveymars-activity-7449117349351268352-gEIU?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGlCOOkB_iC-PaqA8um2cpOF-vg31hOE7x8",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Anant",
+      "last_name": "Kumar",
+      "headline": "Chief Executive Officer @ Founders Verbinden | Artificial Intelligence, Machine Learning",
+      "username": "quantumanant01",
+      "profile_url": "https://www.linkedin.com/in/quantumanant01?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAFlkXo4BoqSshmx3wOEx8mBKLWcbdPLS-H0",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D5603AQEHPZBFCcs7pg/profile-displayphoto-crop_800_800/B56ZpKYxEFI4AI-/0/1762184622110?e=1781740800&v=beta&t=dda-Cb-qMAfmjj229OZGjSbgw5yMGQ-joFAjFU6qeQ8"
+    },
+    "stats": {
+      "total_reactions": 7,
+      "like": 7,
+      "support": 0,
+      "love": 0,
+      "insight": 0,
+      "celebrate": 0,
+      "funny": 0,
+      "comments": 0,
+      "reposts": 1
+    },
+    "media": {
+      "type": "image",
+      "url": "https://media.licdn.com/dms/image/sync/v2/D5627AQHbEhBxs6fmjg/articleshare-shrink_1280_800/B56Z2CUu40HAAU-/0/1776007966758?e=1780963200&v=beta&t=4YmiRXwGaL4pCjpoNTh7M2t0X3SPQXwsluT1Ggxeq1g"
+    },
+    "article": {
+      "url": "https://surveymars.com/q/inCNrx5s9",
+      "title": "Study LPU – Mentor Onboarding Form | SurveyMars",
+      "subtitle": "surveymars.com",
+      "thumbnail": "https://media.licdn.com/dms/image/sync/v2/D5627AQHbEhBxs6fmjg/articleshare-shrink_1280_800/B56Z2CUu40HAAU-/0/1776007966758?e=1780963200&v=beta&t=4YmiRXwGaL4pCjpoNTh7M2t0X3SPQXwsluT1Ggxeq1g"
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjczMzkxNTkxMDg4NTM0MjAwMzItMTc0OTc5MTg4NjQ5OA=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7443989037457092608",
+      "share_urn": "7443989036769382400",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7443989037457092608",
+    "posted_at": {
+      "date": "2026-03-29 13:54:49",
+      "relative": "2 months ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1774785289158
+    },
+    "text": "🚀 Mentor Hiring | Study LPU\nStudy LPU is currently onboarding high-performing student mentors to provide structured academic and career guidance.\n🌐 Platform: https://lnkd.in/g5VBU7Js\n🎯 Eligibility Criteria\nCGPA / TGPA ≥ 9.0 (preferred)\nStudents from LPU (Lovely Professional University) and other reputed institutions\nStrong conceptual understanding\nAbility to explain concepts clearly\n💼 Role & Responsibilities\nConduct 1:1 mentorship sessions\nSupport students in academic improvement and strategy\nShare practical and proven approaches\n💰 Compensation Structure\nPay-per-session model\nFlexible schedule\nPerformance-based earning\n⚠️ Selection Process\nThis is a selective onboarding process.\nApplications are evaluated based on:\nAcademic proof\nTeaching clarity\nCommitment\n📩 Apply here:\n👉 https://lnkd.in/guHBzZjg\nShortlisted candidates will be contacted within 24–48 hours.\n#StudyLPU #LPU #LovelyProfessionalUniversity #LPUStudents #LPULife #CampusHiring #Mentorship #EdTech #StudentSuccess #CareerDevelopment #Topper #CGPA #UniversityLife",
+    "url": "https://www.linkedin.com/posts/quantumanant01_mentor-application-form-for-study-lpu-surveymars-activity-7443989037457092608-Wtw4?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGlCOOkB_iC-PaqA8um2cpOF-vg31hOE7x8",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Anant",
+      "last_name": "Kumar",
+      "headline": "Chief Executive Officer @ Founders Verbinden | Artificial Intelligence, Machine Learning",
+      "username": "quantumanant01",
+      "profile_url": "https://www.linkedin.com/in/quantumanant01?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAFlkXo4BoqSshmx3wOEx8mBKLWcbdPLS-H0",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D5603AQEHPZBFCcs7pg/profile-displayphoto-crop_800_800/B56ZpKYxEFI4AI-/0/1762184622110?e=1781740800&v=beta&t=dda-Cb-qMAfmjj229OZGjSbgw5yMGQ-joFAjFU6qeQ8"
+    },
+    "stats": {
+      "total_reactions": 11,
+      "like": 11,
+      "support": 0,
+      "love": 0,
+      "insight": 0,
+      "celebrate": 0,
+      "funny": 0,
+      "comments": 0,
+      "reposts": 0
+    },
+    "media": {
+      "type": "image",
+      "url": "https://media.licdn.com/dms/image/sync/v2/D5627AQHWpsOnqbBQUQ/articleshare-shrink_1280_800/B56Z05b9_rH8AQ-/0/1774785126755?e=1780963200&v=beta&t=NJw-f9-_l2M4jXrLfpyavQ9YliCfdCuuWbhTjQy5dag"
+    },
+    "article": {
+      "url": "https://surveymars.com/q/d8BuhDcWn",
+      "title": "Mentor Application Form for Study LPU | SurveyMars",
+      "subtitle": "surveymars.com",
+      "thumbnail": "https://media.licdn.com/dms/image/sync/v2/D5627AQHWpsOnqbBQUQ/articleshare-shrink_1280_800/B56Z05b9_rH8AQ-/0/1774785126755?e=1780963200&v=beta&t=NJw-f9-_l2M4jXrLfpyavQ9YliCfdCuuWbhTjQy5dag"
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjczMzkxNTkxMDg4NTM0MjAwMzItMTc0OTc5MTg4NjQ5OA=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7441551376700313600",
+      "share_urn": "7441551375521701888",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7441551376700313600",
+    "posted_at": {
+      "date": "2026-03-22 19:28:25",
+      "relative": "2 months ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1774204105544
+    },
+    "text": "Most people don’t lack discipline.\nThey lack alignment.\nAs an author, I didn’t want to write another “feel-good” book.\nI wanted to build something that actually changes how you function — biologically, mentally, and practically.\nBecause the real problem is this:\nWe are trying to live high-performance lives… on disrupted internal systems.\nLate nights.\nIrregular sleep.\nConstant stimulation.\nAnd then we blame ourselves for low energy.\nSo I went deeper.\nI studied circadian biology, neuroscience, and ancient systems like Ayurveda — not to collect knowledge, but to extract a working model.\nThat model became:\n📘 The Rhythm Code\nThis book is built like a system, not a story.\nInside, you’ll find:\n• How your circadian rhythm dictates energy, focus, and recovery\n• Why consistency beats intensity (biologically)\n• Practical protocols — morning, evening, breathing resets\n• A 7-day reset to regain control\n• A 30-day structure to rebuild long-term energy\nThis is not about doing more.\nIt’s about doing in sync.\nIf you feel like your effort ≠ output,\nthis is the layer you’re missing.\n🔗 Read here: https://amzn.in/d/03DEKr5u\nIf you do read it, approach it like a system —\ntest, observe, adapt.\nThat’s where transformation actually happens.\n#TheRhythmCode #AuthorLife #WritersOfLinkedIn #ThoughtLeadership #CircadianRhythm #Neuroscience #Ayurveda #Productivity #DeepWork #MentalClarity #EnergyManagement #BurnoutRecovery #SelfOptimization #PeakPerformance #StartupMindset #BuildInPublic #LinkedInCreators",
+    "url": "https://www.linkedin.com/posts/quantumanant01_therhythmcode-authorlife-writersoflinkedin-activity-7441551376700313600-OrYX?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGlCOOkB_iC-PaqA8um2cpOF-vg31hOE7x8",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Anant",
+      "last_name": "Kumar",
+      "headline": "Chief Executive Officer @ Founders Verbinden | Artificial Intelligence, Machine Learning",
+      "username": "quantumanant01",
+      "profile_url": "https://www.linkedin.com/in/quantumanant01?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAFlkXo4BoqSshmx3wOEx8mBKLWcbdPLS-H0",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D5603AQEHPZBFCcs7pg/profile-displayphoto-crop_800_800/B56ZpKYxEFI4AI-/0/1762184622110?e=1781740800&v=beta&t=dda-Cb-qMAfmjj229OZGjSbgw5yMGQ-joFAjFU6qeQ8"
+    },
+    "stats": {
+      "total_reactions": 8,
+      "like": 8,
+      "support": 0,
+      "love": 0,
+      "insight": 0,
+      "celebrate": 0,
+      "funny": 0,
+      "comments": 0,
+      "reposts": 0
+    },
+    "media": {
+      "type": "image",
+      "url": "https://media.licdn.com/dms/image/v2/D5622AQF6BurNRIGaQw/feedshare-shrink_1280/B56Z0WziuQJIAM-/0/1774204103857?e=1781740800&v=beta&t=JG9l4yX5ANFQAV9IJ-oRT1CBdfNjptsdlkQMc1oxvgc",
+      "images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D5622AQF6BurNRIGaQw/feedshare-shrink_1280/B56Z0WziuQJIAM-/0/1774204103857?e=1781740800&v=beta&t=JG9l4yX5ANFQAV9IJ-oRT1CBdfNjptsdlkQMc1oxvgc",
+          "width": 986,
+          "height": 1464
+        }
+      ]
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjczMzkxNTkxMDg4NTM0MjAwMzItMTc0OTc5MTg4NjQ5OA=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7439388028302942208",
+      "share_urn": null,
+      "ugcPost_urn": "7439388027447238656"
+    },
+    "full_urn": "urn:li:ugcPost:7439388027447238656",
+    "posted_at": {
+      "date": "2026-03-16 20:12:03",
+      "relative": "2 months ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1773688323093
+    },
+    "text": "🚀 I’m excited to share that I’ve started working on STUDY LPU as a Founder & EdTech Platform Developer.\nWhile preparing for midterms at Lovely Professional University, I noticed a problem:\nStudents spend hours searching PDFs and notes, but rarely get the chance to practice exams in a real exam-like environment.\nSo I built STUDY LPU — a platform designed to make exam preparation structured, interactive, and competitive.\nOn the platform, students can:\n📚 Practice unit-wise quizzes\n⚡ Generate custom exams based on subject and difficulty\n⏱ Experience a real exam timer simulation\n🏆 Compete on a live leaderboard\n📂 Access and share study resources\nCurrently supporting subjects like:\nMTH166 • ECE249 • CSE111 • CHE110 • PHY110\n🌐 Try it here:\nhttps://lnkd.in/g5VBU7Js\nBuilt by a student, for students.\nI’d love feedback from LPU students and developers.\n#LPU #LovelyProfessionalUniversity #LPUEngineering #LPUBTech #EdTech #StudentProjects #WebDevelopment #Startup",
+    "url": "https://www.linkedin.com/posts/quantumanant01_lpu-lovelyprofessionaluniversity-lpuengineering-activity-7439388028302942208-0Oiw?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGlCOOkB_iC-PaqA8um2cpOF-vg31hOE7x8",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Anant",
+      "last_name": "Kumar",
+      "headline": "Chief Executive Officer @ Founders Verbinden | Artificial Intelligence, Machine Learning",
+      "username": "quantumanant01",
+      "profile_url": "https://www.linkedin.com/in/quantumanant01?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAFlkXo4BoqSshmx3wOEx8mBKLWcbdPLS-H0",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D5603AQEHPZBFCcs7pg/profile-displayphoto-crop_800_800/B56ZpKYxEFI4AI-/0/1762184622110?e=1781740800&v=beta&t=dda-Cb-qMAfmjj229OZGjSbgw5yMGQ-joFAjFU6qeQ8"
+    },
+    "stats": {
+      "total_reactions": 39,
+      "like": 37,
+      "support": 0,
+      "love": 0,
+      "insight": 0,
+      "celebrate": 2,
+      "funny": 0,
+      "comments": 5,
+      "reposts": 0
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjczMzkxNTkxMDg4NTM0MjAwMzItMTc0OTc5MTg4NjQ5OA=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7439382853911482369",
+      "share_urn": "7439382852707799041",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7439382853911482369",
+    "posted_at": {
+      "date": "2026-03-16 19:51:29",
+      "relative": "2 months ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1773687089422
+    },
+    "text": "🚀 I built a platform to help LPU students prepare for exams smarter.\nDuring midterm preparation, I noticed a common problem — students often don’t have a place to practice structured MCQs in a real exam environment.\nSo I built STUDY LPU.\nA platform designed specifically for Lovely Professional University students to practice and compete academically.\nKey features:\n• 📚 Unit-wise quizzes (Easy / Medium / Hard)\n• 🧠 Midterm practice sets for subjects like MTH166, ECE249, CSE111, CHE110, PHY110\n• ⚡ Custom Exam Generator — choose subject, difficulty, questions, and duration\n• ⏱️ Real exam timer and MCQ environment\n• 🏆 Live leaderboard to track top performers\nGoal: Make exam preparation structured, competitive, and efficient.\nTry it here:\nhttps://lnkd.in/g5VBU7Js\nWould love feedback from LPU students and developers.\n#LPU #LovelyProfessionalUniversity #LPUStudents #LPUCampus #LPULife #LPUEngineering #LPUCSE #LPUECE #LPUMTH166 #LPUMidterms #LPUExams #LPUBTech #LPUAcademics #LPULearning #LPULearningCommunity #LPUDevelopers #LPUEngineeringStudents #LPUCoding #LPUEdTech #LPUTech #LPUInnovation #LPUBuilders #StudentProjects #EdTech #WebDevelopment",
+    "url": "https://www.linkedin.com/posts/quantumanant01_lpu-lovelyprofessionaluniversity-lpustudents-activity-7439382853911482369-e850?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGlCOOkB_iC-PaqA8um2cpOF-vg31hOE7x8",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Anant",
+      "last_name": "Kumar",
+      "headline": "Chief Executive Officer @ Founders Verbinden | Artificial Intelligence, Machine Learning",
+      "username": "quantumanant01",
+      "profile_url": "https://www.linkedin.com/in/quantumanant01?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAFlkXo4BoqSshmx3wOEx8mBKLWcbdPLS-H0",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D5603AQEHPZBFCcs7pg/profile-displayphoto-crop_800_800/B56ZpKYxEFI4AI-/0/1762184622110?e=1781740800&v=beta&t=dda-Cb-qMAfmjj229OZGjSbgw5yMGQ-joFAjFU6qeQ8"
+    },
+    "stats": {
+      "total_reactions": 70,
+      "like": 69,
+      "support": 0,
+      "love": 0,
+      "insight": 1,
+      "celebrate": 0,
+      "funny": 0,
+      "comments": 5,
+      "reposts": 1
+    },
+    "media": {
+      "type": "image",
+      "url": "https://media.licdn.com/dms/image/v2/D5622AQGahHYA7xZTPQ/feedshare-image-high-res/B56Zz3_SL0I0AU-/0/1773687088238?e=1781740800&v=beta&t=rFg-HcdkaQT0tdvRhT8KKRrT4gl86Np9b1-2XS9itlw",
+      "images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D5622AQGahHYA7xZTPQ/feedshare-image-high-res/B56Zz3_SL0I0AU-/0/1773687088238?e=1781740800&v=beta&t=rFg-HcdkaQT0tdvRhT8KKRrT4gl86Np9b1-2XS9itlw",
+          "width": 2048,
+          "height": 1331
+        }
+      ]
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjczMzkxNTkxMDg4NTM0MjAwMzItMTc0OTc5MTg4NjQ5OA=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7430308453627207681",
+      "share_urn": null,
+      "ugcPost_urn": "7430308450594627584"
+    },
+    "full_urn": "urn:li:ugcPost:7430308450594627584",
+    "posted_at": {
+      "date": "2026-02-19 18:53:03",
+      "relative": "3 months ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1771523583800
+    },
+    "text": "🌿 Introducing EcoVulnAI — AI-Assisted Ecological Vulnerability Assessment Platform\nI’m excited to share my college Environmental Studies (CA Project) — EcoVulnAI, a web-based ecological vulnerability screening system designed to support early-stage environmental risk assessment.\n🔗 Live Project:\nhttps://lnkd.in/grpqMZ7P\n🌍 What is EcoVulnAI?\nEcoVulnAI calculates an Ecological Vulnerability Index (EVI) using a structured multi-criteria model inspired by the Analytic Hierarchy Process (AHP).\nIt evaluates projects based on:\n• Project Impact\n• Species Threat Level\n• Habitat Fragmentation\n• Ecosystem Sensitivity\nThe system then classifies the project into:\n🟢 Low Risk\n🟡 Moderate Risk\n🟠 High Risk\n🔴 Critical Risk\nand generates a policy recommendation accordingly.\n🚀 Key Features\n✔ Interactive Ecological Assessment Dashboard\n✔ Radar Chart Risk Visualization\n✔ Compare Two Projects Mode\n✔ Scenario Simulation (Future Risk Projection)\n✔ Satellite-Based Vegetation Analysis (NDVI Concept)\n✔ Interactive Risk Map\n✔ Downloadable PDF Assessment Report\n✔ Dark Mode Interface\nBuilt using:\n• HTML, CSS, Vanilla JavaScript\n• Chart.js for data visualization\n• Netlify Serverless Functions (Node.js backend)\n🎯 Why This Project?\nEnvironmental Impact Assessments are often conducted late in planning cycles. EcoVulnAI explores how AI-assisted screening tools can support early-stage ecological decision-making while remaining transparent and interpretable.\nThe goal is not to replace formal EIA processes, but to provide a structured decision-support framework aligned with sustainable development principles.\n👨‍💻 Developed by: Anant Kumar\nTeam Members: Kunal Singh, Siddhivinayak Mishra\nAs part of my College CA Project in Environmental Studies.\nI would truly appreciate feedback from professionals working in sustainability, biodiversity conservation, environmental governance, or AI for climate solutions.\n#EnvironmentalStudies #Sustainability #ArtificialIntelligence #Biodiversity #ClimateAction #SDG15 #StudentProject #EcoVulnAI",
+    "url": "https://www.linkedin.com/posts/quantumanant01_environmentalstudies-sustainability-artificialintelligence-activity-7430308453627207681-DX-Z?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGlCOOkB_iC-PaqA8um2cpOF-vg31hOE7x8",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Anant",
+      "last_name": "Kumar",
+      "headline": "Chief Executive Officer @ Founders Verbinden | Artificial Intelligence, Machine Learning",
+      "username": "quantumanant01",
+      "profile_url": "https://www.linkedin.com/in/quantumanant01?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAFlkXo4BoqSshmx3wOEx8mBKLWcbdPLS-H0",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D5603AQEHPZBFCcs7pg/profile-displayphoto-crop_800_800/B56ZpKYxEFI4AI-/0/1762184622110?e=1781740800&v=beta&t=dda-Cb-qMAfmjj229OZGjSbgw5yMGQ-joFAjFU6qeQ8"
+    },
+    "stats": {
+      "total_reactions": 16,
+      "like": 15,
+      "support": 1,
+      "love": 0,
+      "insight": 0,
+      "celebrate": 0,
+      "funny": 0,
+      "comments": 0,
+      "reposts": 0
+    },
+    "media": {
+      "type": "images",
+      "url": "https://media.licdn.com/dms/image/v2/D5622AQFf21LA0_JRxQ/feedshare-image-high-res/B56Zx3CKI7HoAU-/0/1771523580868?e=1781740800&v=beta&t=BhWPMa3ZOAhHNGj7mKA4AT0v71uIAHbQ9RBFJL87lsk",
+      "images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D5622AQFf21LA0_JRxQ/feedshare-image-high-res/B56Zx3CKI7HoAU-/0/1771523580868?e=1781740800&v=beta&t=BhWPMa3ZOAhHNGj7mKA4AT0v71uIAHbQ9RBFJL87lsk",
+          "width": 2048,
+          "height": 1331
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D5622AQETNUmfh3tZ7A/feedshare-image-high-res/B56Zx3CKVUHQAY-/0/1771523581758?e=1781740800&v=beta&t=H_w-exbv13Po9eropVHoTIj2z1J-sqfIKuyHRbC6PjQ",
+          "width": 2048,
+          "height": 1331
+        }
+      ]
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjczMzkxNTkxMDg4NTM0MjAwMzItMTc0OTc5MTg4NjQ5OA=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7422167550731653122",
+      "share_urn": "7422167549431214081",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7422167550731653122",
+    "posted_at": {
+      "date": "2026-01-28 07:44:01",
+      "relative": "4 months ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1769582641299
+    },
+    "text": "Attended a Leaders’ Talk on “AI and Innovation”at LPU, organized by the School of Computer Science and Engineering. \n\nThe session was delivered by Mr. Vishwa Mohan (Founder & CEO, upGrad School of Technology | AIMERZ.ai) and offered valuable industry perspective on building sustainable careers in the AI-driven era.\n\nKey takeaways:\n\nFocus on personal branding with clarity and purpose\n\nApproach problem-solving through first-principles thinking\n\nResilience is essential for long-term growth\n\nWhile skills are important, strong fundamentals create lasting impact\n\nA thoughtful session emphasizing that technology evolves rapidly, but fundamentals remain the true differentiator.\n\nGrateful for the learning opportunity.\n\n#AI #Innovation #LeadershipTalk #FirstPrinciples #ProfessionalGrowth #ComputerScience #Learning",
+    "url": "https://www.linkedin.com/posts/quantumanant01_ai-innovation-leadershiptalk-activity-7422167550731653122-MfLu?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGlCOOkB_iC-PaqA8um2cpOF-vg31hOE7x8",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Anant",
+      "last_name": "Kumar",
+      "headline": "Chief Executive Officer @ Founders Verbinden | Artificial Intelligence, Machine Learning",
+      "username": "quantumanant01",
+      "profile_url": "https://www.linkedin.com/in/quantumanant01?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAFlkXo4BoqSshmx3wOEx8mBKLWcbdPLS-H0",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D5603AQEHPZBFCcs7pg/profile-displayphoto-crop_800_800/B56ZpKYxEFI4AI-/0/1762184622110?e=1781740800&v=beta&t=dda-Cb-qMAfmjj229OZGjSbgw5yMGQ-joFAjFU6qeQ8"
+    },
+    "stats": {
+      "total_reactions": 54,
+      "like": 52,
+      "support": 0,
+      "love": 2,
+      "insight": 0,
+      "celebrate": 0,
+      "funny": 0,
+      "comments": 3,
+      "reposts": 0
+    },
+    "media": {
+      "type": "image",
+      "url": "https://media.licdn.com/dms/image/v2/D5622AQE6j8-cCWjdGQ/feedshare-shrink_1280/B56ZwDWDnJJIAc-/0/1769582639935?e=1781740800&v=beta&t=ylwVpiAQO9OxrAaWHsayYS97bRAA7-N5CLRebUPVygo",
+      "images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D5622AQE6j8-cCWjdGQ/feedshare-shrink_1280/B56ZwDWDnJJIAc-/0/1769582639935?e=1781740800&v=beta&t=ylwVpiAQO9OxrAaWHsayYS97bRAA7-N5CLRebUPVygo",
+          "width": 1080,
+          "height": 1080
+        }
+      ]
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjczMzkxNTkxMDg4NTM0MjAwMzItMTc0OTc5MTg4NjQ5OA=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7421801052879921152",
+      "share_urn": "7421801051856637952",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7421801052879921152",
+    "posted_at": {
+      "date": "2026-01-27 07:27:41",
+      "relative": "4 months ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1769495261402
+    },
+    "text": "Captured this evening moment at Lovely Professional University 🌆\nThere’s something about the sky at dusk that slows everything down and clears the mind.\n\nEvenings like these remind me that growth isn’t always about moving fast—sometimes it’s about pausing, reflecting, and appreciating how far you’ve come.\n\nGrateful for moments like these on campus. 🌿\n\n#LPU #CampusLife #EveningVibes #Reflection #StudentLife #GrowthMindset",
+    "url": "https://www.linkedin.com/posts/quantumanant01_lpu-campuslife-eveningvibes-activity-7421801052879921152-6Sjf?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGlCOOkB_iC-PaqA8um2cpOF-vg31hOE7x8",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Anant",
+      "last_name": "Kumar",
+      "headline": "Chief Executive Officer @ Founders Verbinden | Artificial Intelligence, Machine Learning",
+      "username": "quantumanant01",
+      "profile_url": "https://www.linkedin.com/in/quantumanant01?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAFlkXo4BoqSshmx3wOEx8mBKLWcbdPLS-H0",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D5603AQEHPZBFCcs7pg/profile-displayphoto-crop_800_800/B56ZpKYxEFI4AI-/0/1762184622110?e=1781740800&v=beta&t=dda-Cb-qMAfmjj229OZGjSbgw5yMGQ-joFAjFU6qeQ8"
+    },
+    "stats": {
+      "total_reactions": 11,
+      "like": 11,
+      "support": 0,
+      "love": 0,
+      "insight": 0,
+      "celebrate": 0,
+      "funny": 0,
+      "comments": 0,
+      "reposts": 0
+    },
+    "media": {
+      "type": "image",
+      "url": "https://media.licdn.com/dms/image/v2/D5622AQHPD2cozjWdWQ/feedshare-image-high-res/B56Zv.Iuv9KgAU-/0/1769495260535?e=1781740800&v=beta&t=TOiy7apBOHiUcSfNVdQTevEsA4CF790U-JLK9VPMYIA",
+      "images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D5622AQHPD2cozjWdWQ/feedshare-image-high-res/B56Zv.Iuv9KgAU-/0/1769495260535?e=1781740800&v=beta&t=TOiy7apBOHiUcSfNVdQTevEsA4CF790U-JLK9VPMYIA",
+          "width": 2048,
+          "height": 917
+        }
+      ]
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjczMzkxNTkxMDg4NTM0MjAwMzItMTc0OTc5MTg4NjQ5OA=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7421607911912796160",
+      "share_urn": "7421607910881026049",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7421607911912796160",
+    "posted_at": {
+      "date": "2026-01-26 18:40:13",
+      "relative": "4 months ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1769449213007
+    },
+    "text": "Excited to dive into CSE101 - C Programming at LPU! 🚀 Just explored the course repo on GitHub, packed with lab experiments, lecture notes, and hands-on projects on basics like data types, control structures, functions, arrays, and pointers.\nAs a first-year B.Tech AI/ML student, I’m pumped to build strong fundamentals in structured programming – perfect foundation for my coding challenges and future AI projects.\nCheck out the repo: https://lnkd.in/gVcAChYi ,Let’s connect and code together! 💻\n#LPU #LovelyProfessionalUniversity #CSE101 #CProgramming #Programming #Coding #AI #ML #FirstYear #Engineering #GitHub #LPUStudent #LearnC #ComputerScience #BTech",
+    "url": "https://www.linkedin.com/posts/quantumanant01_lpu-lovelyprofessionaluniversity-cse101-activity-7421607911912796160-Rz3s?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGlCOOkB_iC-PaqA8um2cpOF-vg31hOE7x8",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Anant",
+      "last_name": "Kumar",
+      "headline": "Chief Executive Officer @ Founders Verbinden | Artificial Intelligence, Machine Learning",
+      "username": "quantumanant01",
+      "profile_url": "https://www.linkedin.com/in/quantumanant01?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAFlkXo4BoqSshmx3wOEx8mBKLWcbdPLS-H0",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D5603AQEHPZBFCcs7pg/profile-displayphoto-crop_800_800/B56ZpKYxEFI4AI-/0/1762184622110?e=1781740800&v=beta&t=dda-Cb-qMAfmjj229OZGjSbgw5yMGQ-joFAjFU6qeQ8"
+    },
+    "stats": {
+      "total_reactions": 9,
+      "like": 9,
+      "support": 0,
+      "love": 0,
+      "insight": 0,
+      "celebrate": 0,
+      "funny": 0,
+      "comments": 0,
+      "reposts": 0
+    },
+    "media": {
+      "type": "image",
+      "url": "https://media.licdn.com/dms/image/v2/D5622AQEWfY8_RbIbsA/feedshare-image-high-res/B56Zv7ZEUvI4AY-/0/1769449211628?e=1781740800&v=beta&t=Nfpqi5R4E7cnDqmyGqVIvqGYvC0ZcjmgYbPmVFC1ksM",
+      "images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D5622AQEWfY8_RbIbsA/feedshare-image-high-res/B56Zv7ZEUvI4AY-/0/1769449211628?e=1781740800&v=beta&t=Nfpqi5R4E7cnDqmyGqVIvqGYvC0ZcjmgYbPmVFC1ksM",
+          "width": 2048,
+          "height": 1331
+        }
+      ]
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjczMzkxNTkxMDg4NTM0MjAwMzItMTc0OTc5MTg4NjQ5OA=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7397613884603531264",
+      "share_urn": "7397613883567534080",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7397613884603531264",
+    "posted_at": {
+      "date": "2025-11-21 13:36:31",
+      "relative": "6 months ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1763728591109
+    },
+    "text": "🚀 Excited to share a new milestone in my coding journey! 🚀\nI have successfully passed the HackerRank Python Basic certification test, demonstrating my skills and commitment to becoming a proficient programmer. This achievement motivates me to keep learning and pushing the boundaries in software development and AI/ML.\nA big thank you to HackerRank for providing a platform to challenge and grow my coding abilities, and to everyone supporting me on this path.\nLooking forward to applying these skills in my projects and contributing meaningfully to the tech community!\n#Python #Programming #HackerRank #CodingJourney #AI #ML #Learning #Growth",
+    "url": "https://www.linkedin.com/posts/quantumanant01_python-programming-hackerrank-activity-7397613884603531264-a7uR?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGlCOOkB_iC-PaqA8um2cpOF-vg31hOE7x8",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Anant",
+      "last_name": "Kumar",
+      "headline": "Chief Executive Officer @ Founders Verbinden | Artificial Intelligence, Machine Learning",
+      "username": "quantumanant01",
+      "profile_url": "https://www.linkedin.com/in/quantumanant01?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAFlkXo4BoqSshmx3wOEx8mBKLWcbdPLS-H0",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D5603AQEHPZBFCcs7pg/profile-displayphoto-crop_800_800/B56ZpKYxEFI4AI-/0/1762184622110?e=1781740800&v=beta&t=dda-Cb-qMAfmjj229OZGjSbgw5yMGQ-joFAjFU6qeQ8"
+    },
+    "stats": {
+      "total_reactions": 19,
+      "like": 18,
+      "support": 0,
+      "love": 0,
+      "insight": 0,
+      "celebrate": 1,
+      "funny": 0,
+      "comments": 0,
+      "reposts": 0
+    },
+    "media": {
+      "type": "image",
+      "url": "https://media.licdn.com/dms/image/v2/D4E22AQGrneqK8RP_RQ/feedshare-image-high-res/B4EZqmanopKgAo-/0/1763728589533?e=1781740800&v=beta&t=qXwNFEPSs8eG-08NnQdHxcrhkNGTR-MrnHquO5bI8hw",
+      "images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQGrneqK8RP_RQ/feedshare-image-high-res/B4EZqmanopKgAo-/0/1763728589533?e=1781740800&v=beta&t=qXwNFEPSs8eG-08NnQdHxcrhkNGTR-MrnHquO5bI8hw",
+          "width": 2020,
+          "height": 1536
+        }
+      ]
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjczMzkxNTkxMDg4NTM0MjAwMzItMTc0OTc5MTg4NjQ5OA=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7394837059934375937",
+      "share_urn": "7394837058655248384",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7394837059934375937",
+    "posted_at": {
+      "date": "2025-11-13 21:42:24",
+      "relative": "6 months ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1763066544517
+    },
+    "text": "🎉 Excited to share that I have successfully completed the Drone Developer Certification Programme offered by Reliance Foundation Skilling Academy! 🚁\nThis online course has deepened my understanding of drone technology, development practices, and practical applications, complementing my ongoing journey as a tech enthusiast and engineering student.\nGrateful for the opportunity to upskill in this cutting-edge field and eager to explore new innovations and projects ahead.\n#Certification #DroneTechnology #LearningJourney #SkillDevelopment #RelianceFoundation #Engineering #TechEnthusiast",
+    "url": "https://www.linkedin.com/posts/quantumanant01_certification-dronetechnology-learningjourney-activity-7394837059934375937-c8wm?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGlCOOkB_iC-PaqA8um2cpOF-vg31hOE7x8",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Anant",
+      "last_name": "Kumar",
+      "headline": "Chief Executive Officer @ Founders Verbinden | Artificial Intelligence, Machine Learning",
+      "username": "quantumanant01",
+      "profile_url": "https://www.linkedin.com/in/quantumanant01?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAFlkXo4BoqSshmx3wOEx8mBKLWcbdPLS-H0",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D5603AQEHPZBFCcs7pg/profile-displayphoto-crop_800_800/B56ZpKYxEFI4AI-/0/1762184622110?e=1781740800&v=beta&t=dda-Cb-qMAfmjj229OZGjSbgw5yMGQ-joFAjFU6qeQ8"
+    },
+    "stats": {
+      "total_reactions": 13,
+      "like": 13,
+      "support": 0,
+      "love": 0,
+      "insight": 0,
+      "celebrate": 0,
+      "funny": 0,
+      "comments": 0,
+      "reposts": 0
+    },
+    "media": {
+      "type": "image",
+      "url": "https://media.licdn.com/dms/image/v2/D4E22AQGM3L4NENKwNw/feedshare-image-high-res/B4EZp.9Gs0KsAo-/0/1763066542982?e=1781740800&v=beta&t=9GHw1Yw79XurLBo9C0x4cJdcniDDOlEC93spwPxAyFo",
+      "images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQGM3L4NENKwNw/feedshare-image-high-res/B4EZp.9Gs0KsAo-/0/1763066542982?e=1781740800&v=beta&t=9GHw1Yw79XurLBo9C0x4cJdcniDDOlEC93spwPxAyFo",
+          "width": 1790,
+          "height": 1350
+        }
+      ]
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjczMzkxNTkxMDg4NTM0MjAwMzItMTc0OTc5MTg4NjQ5OA=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7394820337714188288",
+      "share_urn": "7394820336627863552",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7394820337714188288",
+    "posted_at": {
+      "date": "2025-11-13 20:35:57",
+      "relative": "6 months ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1763062557629
+    },
+    "text": "Unlocking new possibilities! 🌟\nExcited to announce that I’ve completed my Leadership and Management Skills certification with Reliance Foundation Skilling Academy via Skill India Digital Hub. This intensive 60-hour program gave me actionable tools for communicating with purpose, building effective teams, and driving meaningful results.\nGrateful for the learning journey and eager to bring these insights into future endeavors and collaborations. Onwards and upwards!\n#Leadership #Management #GrowthMindset #SkillIndia #ContinuousLearning",
+    "url": "https://www.linkedin.com/posts/quantumanant01_leadership-management-growthmindset-activity-7394820337714188288-DI-L?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGlCOOkB_iC-PaqA8um2cpOF-vg31hOE7x8",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Anant",
+      "last_name": "Kumar",
+      "headline": "Chief Executive Officer @ Founders Verbinden | Artificial Intelligence, Machine Learning",
+      "username": "quantumanant01",
+      "profile_url": "https://www.linkedin.com/in/quantumanant01?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAFlkXo4BoqSshmx3wOEx8mBKLWcbdPLS-H0",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D5603AQEHPZBFCcs7pg/profile-displayphoto-crop_800_800/B56ZpKYxEFI4AI-/0/1762184622110?e=1781740800&v=beta&t=dda-Cb-qMAfmjj229OZGjSbgw5yMGQ-joFAjFU6qeQ8"
+    },
+    "stats": {
+      "total_reactions": 15,
+      "like": 15,
+      "support": 0,
+      "love": 0,
+      "insight": 0,
+      "celebrate": 0,
+      "funny": 0,
+      "comments": 0,
+      "reposts": 0
+    },
+    "media": {
+      "type": "image",
+      "url": "https://media.licdn.com/dms/image/v2/D4E22AQGjuo6TPHD8sw/feedshare-image-high-res/B4EZp.t5yCIoAo-/0/1763062556718?e=1781740800&v=beta&t=yz7KP4SnBfnFRlLsmgYx-sGJk70xIlI7P3_gJx2jEow",
+      "images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQGjuo6TPHD8sw/feedshare-image-high-res/B4EZp.t5yCIoAo-/0/1763062556718?e=1781740800&v=beta&t=yz7KP4SnBfnFRlLsmgYx-sGJk70xIlI7P3_gJx2jEow",
+          "width": 1816,
+          "height": 1310
+        }
+      ]
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjczMzkxNTkxMDg4NTM0MjAwMzItMTc0OTc5MTg4NjQ5OA=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7393650673252474880",
+      "share_urn": "7393650672501497856",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7393650673252474880",
+    "posted_at": {
+      "date": "2025-11-10 15:08:07",
+      "relative": "6 months ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1762783687890
+    },
+    "text": "🚀 Opportunity: Build With Us! We're Hiring Interns at Founders Verbinden\nWe're building the ultimate community for founders, mentors, and investors. As we prepare for launch, we’re looking to expand our core team with passionate and driven developers.\nThis is not a typical internship. You will be a core team member, building and scaling the platform that powers our entire community.\nWe are looking for:\nFrontend Developers\nBackend Developers\nFull Stack Developers\nWhy Join Us?\nThis is a voluntary, unpaid internship for those who want ground-floor experience in a high-growth startup.\nWhat we offer is invaluable:\nBecome a Core Team Member: Work directly with the founders.\nUnparalleled Networking: Get direct access to our exclusive network of 200+ visionary founders, mentors, and investors.\nBuild Your Portfolio: Ship code for a real-world, scalable web application.\nFuture Opportunities: Exceptional interns will be our first choice for future paid projects.\nCertificate of Internship: Receive an official certificate and a strong, personal recommendation.\nReady to join the team?\nPlease apply using our official application form. It only takes a few minutes.\n➡️ Apply Here: https://lnkd.in/ey4WgpXn\n#FoundersVerbinden #Hiring #Internship #Tech #Developer #FullStack #Frontend #Backend #Opportunity #Startups #Networking #LPU #LovelyProfessionalUniversity",
+    "url": "https://www.linkedin.com/posts/quantumanant01_foundersverbinden-hiring-internship-activity-7393650673252474880-HFq1?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGlCOOkB_iC-PaqA8um2cpOF-vg31hOE7x8",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Anant",
+      "last_name": "Kumar",
+      "headline": "Chief Executive Officer @ Founders Verbinden | Artificial Intelligence, Machine Learning",
+      "username": "quantumanant01",
+      "profile_url": "https://www.linkedin.com/in/quantumanant01?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAFlkXo4BoqSshmx3wOEx8mBKLWcbdPLS-H0",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D5603AQEHPZBFCcs7pg/profile-displayphoto-crop_800_800/B56ZpKYxEFI4AI-/0/1762184622110?e=1781740800&v=beta&t=dda-Cb-qMAfmjj229OZGjSbgw5yMGQ-joFAjFU6qeQ8"
+    },
+    "stats": {
+      "total_reactions": 5,
+      "like": 5,
+      "support": 0,
+      "love": 0,
+      "insight": 0,
+      "celebrate": 0,
+      "funny": 0,
+      "comments": 0,
+      "reposts": 0
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjczMzkxNTkxMDg4NTM0MjAwMzItMTc0OTc5MTg4NjQ5OA=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7393645156723347457",
+      "share_urn": null,
+      "ugcPost_urn": "7393644887675518976"
+    },
+    "full_urn": "urn:li:ugcPost:7393644887675518976",
+    "posted_at": {
+      "date": "2025-11-10 14:46:12",
+      "relative": "6 months ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1762782372647
+    },
+    "text": "Something massive is coming for founders, visionaries, and industry builders.\nWe’ve been working in the trenches, building an ecosystem that goes beyond just \"networking.\" We’re talking about a premium community built for one purpose: to help you Connect, Collaborate, and Build the Future.\nForget what you know about founder communities. This is different.\nGet ready to: ⚡ Accelerate your growth with expert mentors. 🤝 Connect with vetted co-founders and strategic investors. 📈 Access a library of resources you'll actually use.\nWe can't show you everything just yet... but get ready. We’re about to change the game.\nThe countdown starts NOW. 🚀\n#FoundersVerbinden #ComingSoon #Startup #Entrepreneurship #Innovation #GetReady #LPU #LovelyProfessionalUniversity #Founders #Mentorship #VentureCapital",
+    "url": "https://www.linkedin.com/posts/quantumanant01_foundersverbinden-comingsoon-startup-activity-7393645156723347457-QPaZ?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGlCOOkB_iC-PaqA8um2cpOF-vg31hOE7x8",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Anant",
+      "last_name": "Kumar",
+      "headline": "Chief Executive Officer @ Founders Verbinden | Artificial Intelligence, Machine Learning",
+      "username": "quantumanant01",
+      "profile_url": "https://www.linkedin.com/in/quantumanant01?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAFlkXo4BoqSshmx3wOEx8mBKLWcbdPLS-H0",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D5603AQEHPZBFCcs7pg/profile-displayphoto-crop_800_800/B56ZpKYxEFI4AI-/0/1762184622110?e=1781740800&v=beta&t=dda-Cb-qMAfmjj229OZGjSbgw5yMGQ-joFAjFU6qeQ8"
+    },
+    "stats": {
+      "total_reactions": 10,
+      "like": 10,
+      "support": 0,
+      "love": 0,
+      "insight": 0,
+      "celebrate": 0,
+      "funny": 0,
+      "comments": 0,
+      "reposts": 0
+    },
+    "media": {
+      "type": "video",
+      "url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQGF1p4KvIwrSA/mp4-720p-30fp-crf28/B4EZpuBBSIHUCE-/0/1762782370454?e=1780963200&v=beta&t=DU_p07hvXdWKpDoJIyCstdX_sVKIaJL2oxJdmEBQh4w"
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjczMzkxNTkxMDg4NTM0MjAwMzItMTc0OTc5MTg4NjQ5OA=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7391459974117281792",
+      "share_urn": "7391459972947156992",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7391459974117281792",
+    "posted_at": {
+      "date": "2025-11-04 14:03:04",
+      "relative": "6 months ago • Edited • Visible to anyone on or off LinkedIn",
+      "timestamp": 1762261384515
+    },
+    "text": "Super excited to share that StudySync AI – my personalized learning companion project – has been shortlisted for the next round of India Accelerator OpenXAI 2025! 🚀Just received this official mail (see attached) – it’s amazing to have our work recognized among the top entries. Next up: presenting a detailed pitch, sharing the vision, core problem, monetization, and a live demo.Catch all the project details and codebase here:\nhttps://lnkd.in/eUeF5_cq moment for me and Lovely Professional University! Ready for Demo Day and the next challenge.#IndiaAccelerator #OpenXAI2025 #StudySyncAI #AI #EdTech #Innovation #PersonalizedLearning #LPU #LovelyProfessionalUniversity",
+    "url": "https://www.linkedin.com/posts/quantumanant01_indiaaccelerator-openxai2025-studysyncai-activity-7391459974117281792-SgQB?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGlCOOkB_iC-PaqA8um2cpOF-vg31hOE7x8",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Anant",
+      "last_name": "Kumar",
+      "headline": "Chief Executive Officer @ Founders Verbinden | Artificial Intelligence, Machine Learning",
+      "username": "quantumanant01",
+      "profile_url": "https://www.linkedin.com/in/quantumanant01?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAFlkXo4BoqSshmx3wOEx8mBKLWcbdPLS-H0",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D5603AQEHPZBFCcs7pg/profile-displayphoto-crop_800_800/B56ZpKYxEFI4AI-/0/1762184622110?e=1781740800&v=beta&t=dda-Cb-qMAfmjj229OZGjSbgw5yMGQ-joFAjFU6qeQ8"
+    },
+    "stats": {
+      "total_reactions": 11,
+      "like": 11,
+      "support": 0,
+      "love": 0,
+      "insight": 0,
+      "celebrate": 0,
+      "funny": 0,
+      "comments": 0,
+      "reposts": 0
+    },
+    "media": {
+      "type": "image",
+      "url": "https://media.licdn.com/dms/image/v2/D4E22AQG1wfTY7nDqow/feedshare-shrink_1280/B4EZpO9q7vGcAs-/0/1762261383265?e=1781740800&v=beta&t=vbU4IeU5CXHQ-We_3ypueHowDv-x0lxwOTo8FfyJBvs",
+      "images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQG1wfTY7nDqow/feedshare-shrink_1280/B4EZpO9q7vGcAs-/0/1762261383265?e=1781740800&v=beta&t=vbU4IeU5CXHQ-We_3ypueHowDv-x0lxwOTo8FfyJBvs",
+          "width": 1080,
+          "height": 1936
+        }
+      ]
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjczMzkxNTkxMDg4NTM0MjAwMzItMTc0OTc5MTg4NjQ5OA=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7389004953148628993",
+      "share_urn": "7389004952490110977",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7389004953148628993",
+    "posted_at": {
+      "date": "2025-10-28 19:27:41",
+      "relative": "7 months ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1761676061904
+    },
+    "text": "Day 3 of my #75dayhardchallenge! 🚀\nToday’s highlight: Solved the “Finding the Percentage” problem on HackerRank. This challenge made me practice Python dictionaries to calculate student averages—building logic step by step fuels my confidence!\nI’m loving these hands-on coding sessions: each line of code isn’t just a solution, it’s a step forward on my journey. If you’re also on a learning streak, let’s connect and share challenges!\n#HackerRank #codingpractice #growthmindset #python #StudentLife #LovelyProfessionalUniversity",
+    "url": "https://www.linkedin.com/posts/quantumanant01_anant-kumar-720anant-on-hackerrank-activity-7389004953148628993-mn6A?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGlCOOkB_iC-PaqA8um2cpOF-vg31hOE7x8",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Anant",
+      "last_name": "Kumar",
+      "headline": "Chief Executive Officer @ Founders Verbinden | Artificial Intelligence, Machine Learning",
+      "username": "quantumanant01",
+      "profile_url": "https://www.linkedin.com/in/quantumanant01?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAFlkXo4BoqSshmx3wOEx8mBKLWcbdPLS-H0",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D5603AQEHPZBFCcs7pg/profile-displayphoto-crop_800_800/B56ZpKYxEFI4AI-/0/1762184622110?e=1781740800&v=beta&t=dda-Cb-qMAfmjj229OZGjSbgw5yMGQ-joFAjFU6qeQ8"
+    },
+    "stats": {
+      "total_reactions": 3,
+      "like": 3,
+      "support": 0,
+      "love": 0,
+      "insight": 0,
+      "celebrate": 0,
+      "funny": 0,
+      "comments": 0,
+      "reposts": 0
+    },
+    "media": {
+      "type": "image",
+      "url": "https://media.licdn.com/dms/image/sync/v2/D4E27AQEwBjhOFJvJSQ/articleshare-shrink_160/B4EZogcl1XIwAk-/0/1761480957835?e=1780963200&v=beta&t=yR5qgrQDxwlkxV5V-2ygV9cs3DbMPUMrs0Be77SboLc"
+    },
+    "article": {
+      "url": "https://www.hackerrank.com/720anant?badge=python&stars=2&level=1&utm_campaign=social-buttons&utm_medium=linkedin&utm_source=badge_share_profile&social=linkedin",
+      "title": "Anant Kumar (720anant) on HackerRank",
+      "subtitle": "hackerrank.com",
+      "thumbnail": "https://media.licdn.com/dms/image/sync/v2/D4E27AQEwBjhOFJvJSQ/articleshare-shrink_160/B4EZogcl1XIwAk-/0/1761480957835?e=1780963200&v=beta&t=yR5qgrQDxwlkxV5V-2ygV9cs3DbMPUMrs0Be77SboLc"
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjczMzkxNTkxMDg4NTM0MjAwMzItMTc0OTc5MTg4NjQ5OA=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7388998484319916032",
+      "share_urn": null,
+      "ugcPost_urn": "7388998483409543168"
+    },
+    "full_urn": "urn:li:ugcPost:7388998483409543168",
+    "posted_at": {
+      "date": "2025-10-28 19:01:59",
+      "relative": "7 months ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1761674519615
+    },
+    "text": "🎬 Day 3 of my 75-Day Hard Coding Challenge!\nToday, I created a Movie Ratings App in Python.\nWith this project, I practiced using lists (for the whole database), tuples (for cast members), dictionaries (for ratings and comments), and strings (for movie titles).\nYou can add movies, include their cast, and let users rate or comment—all using beginner data structures!\nIt’s exciting to see my codebase and skills growing day by day.\n🚀 Check out my code and follow the journey here:\n👉 https://lnkd.in/eR-XEbvi\nAre you coding daily or working on your own challenge? Let’s support and inspire one another on this #codingjourney!\n#75DayHardChallenge #Python #CodingPractice #MovieApp #BeginnerProjects #DailyCoding #CodeNewbie #Developer #LPU #LovelyProfessionalUniversity",
+    "url": "https://www.linkedin.com/posts/quantumanant01_codingjourney-75dayhardchallenge-python-activity-7388998484319916032-InjO?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGlCOOkB_iC-PaqA8um2cpOF-vg31hOE7x8",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Anant",
+      "last_name": "Kumar",
+      "headline": "Chief Executive Officer @ Founders Verbinden | Artificial Intelligence, Machine Learning",
+      "username": "quantumanant01",
+      "profile_url": "https://www.linkedin.com/in/quantumanant01?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAFlkXo4BoqSshmx3wOEx8mBKLWcbdPLS-H0",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D5603AQEHPZBFCcs7pg/profile-displayphoto-crop_800_800/B56ZpKYxEFI4AI-/0/1762184622110?e=1781740800&v=beta&t=dda-Cb-qMAfmjj229OZGjSbgw5yMGQ-joFAjFU6qeQ8"
+    },
+    "stats": {
+      "total_reactions": 10,
+      "like": 10,
+      "support": 0,
+      "love": 0,
+      "insight": 0,
+      "celebrate": 0,
+      "funny": 0,
+      "comments": 0,
+      "reposts": 0
+    },
+    "media": {
+      "type": "images",
+      "url": "https://media.licdn.com/dms/image/v2/D4E22AQFqWHWcIveWsw/feedshare-image-high-res/B4EZor.9OvIUAo-/0/1761674517488?e=1781740800&v=beta&t=3j3pnb-mdnjVdk76KL8-xDs1HVAw7RdoK_4nbXSL5IE",
+      "images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQFqWHWcIveWsw/feedshare-image-high-res/B4EZor.9OvIUAo-/0/1761674517488?e=1781740800&v=beta&t=3j3pnb-mdnjVdk76KL8-xDs1HVAw7RdoK_4nbXSL5IE",
+          "width": 2048,
+          "height": 1331
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQEOTFdwuZIfLg/feedshare-image-high-res/B4EZor.9OVIUAs-/0/1761674517363?e=1781740800&v=beta&t=kNzMip-a5H0ikVyDdhAW8BxR3A7fZDYuMqA3zx69eSw",
+          "width": 2048,
+          "height": 1331
+        }
+      ]
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjczMzkxNTkxMDg4NTM0MjAwMzItMTc0OTc5MTg4NjQ5OA=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7388609894251372544",
+      "share_urn": "7388609893563461632",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7388609894251372544",
+    "posted_at": {
+      "date": "2025-10-27 17:17:52",
+      "relative": "7 months ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1761581872523
+    },
+    "text": "Day 2 of my #75dayhardchallenge! ✨\nCompleted a total of 7 questions today on HackerRank. Feeling proud to build momentum and strengthen my Python skills step by step. Every solved question adds to my learning and confidence. Ready for more challenges ahead!\n#day2 #codingpractice #HackerRank #LPU #growthmindset #python #StudentLife",
+    "url": "https://www.linkedin.com/posts/quantumanant01_anant-kumar-720anant-on-hackerrank-activity-7388609894251372544-hA8x?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGlCOOkB_iC-PaqA8um2cpOF-vg31hOE7x8",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Anant",
+      "last_name": "Kumar",
+      "headline": "Chief Executive Officer @ Founders Verbinden | Artificial Intelligence, Machine Learning",
+      "username": "quantumanant01",
+      "profile_url": "https://www.linkedin.com/in/quantumanant01?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAFlkXo4BoqSshmx3wOEx8mBKLWcbdPLS-H0",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D5603AQEHPZBFCcs7pg/profile-displayphoto-crop_800_800/B56ZpKYxEFI4AI-/0/1762184622110?e=1781740800&v=beta&t=dda-Cb-qMAfmjj229OZGjSbgw5yMGQ-joFAjFU6qeQ8"
+    },
+    "stats": {
+      "total_reactions": 1,
+      "like": 1,
+      "support": 0,
+      "love": 0,
+      "insight": 0,
+      "celebrate": 0,
+      "funny": 0,
+      "comments": 0,
+      "reposts": 0
+    },
+    "media": {
+      "type": "image",
+      "url": "https://media.licdn.com/dms/image/sync/v2/D4E27AQEwBjhOFJvJSQ/articleshare-shrink_160/B4EZogcl1XIwAk-/0/1761480957835?e=1780963200&v=beta&t=yR5qgrQDxwlkxV5V-2ygV9cs3DbMPUMrs0Be77SboLc"
+    },
+    "article": {
+      "url": "https://www.hackerrank.com/720anant?badge=python&stars=2&level=1&utm_campaign=social-buttons&utm_medium=linkedin&utm_source=badge_share_profile&social=linkedin",
+      "title": "Anant Kumar (720anant) on HackerRank",
+      "subtitle": "hackerrank.com",
+      "thumbnail": "https://media.licdn.com/dms/image/sync/v2/D4E27AQEwBjhOFJvJSQ/articleshare-shrink_160/B4EZogcl1XIwAk-/0/1761480957835?e=1780963200&v=beta&t=yR5qgrQDxwlkxV5V-2ygV9cs3DbMPUMrs0Be77SboLc"
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjczMzkxNTkxMDg4NTM0MjAwMzItMTc0OTc5MTg4NjQ5OA=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7388602955286949888",
+      "share_urn": "7388602953969876993",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7388602955286949888",
+    "posted_at": {
+      "date": "2025-10-27 16:50:18",
+      "relative": "7 months ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1761580218145
+    },
+    "text": "✅ Day 2 of my 75-Day Hard Coding Challenge!\nToday, I built a Student Marks Manager using Python, practicing with lists, dictionaries, tuples, and strings.\nThis small project helps track student info and subject marks—perfect for beginner-level skills and daily discipline.\nI’m loving the momentum and already learning so much by coding and sharing every day!\nCheck out my ever-growing repo and follow my progress here:\n👉 https://lnkd.in/eR-XEbvi\nAre you also working toward a learning goal?\nLet’s inspire and motivate each other—one day and one file at a time.\n#75DayHardChallenge #LearningInPublic #Python #StudentProjects #DailyCoding #Consistency #CodeNewbie #Developer#LPU",
+    "url": "https://www.linkedin.com/posts/quantumanant01_75dayhardchallenge-learninginpublic-python-activity-7388602955286949888-JpaH?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGlCOOkB_iC-PaqA8um2cpOF-vg31hOE7x8",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Anant",
+      "last_name": "Kumar",
+      "headline": "Chief Executive Officer @ Founders Verbinden | Artificial Intelligence, Machine Learning",
+      "username": "quantumanant01",
+      "profile_url": "https://www.linkedin.com/in/quantumanant01?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAFlkXo4BoqSshmx3wOEx8mBKLWcbdPLS-H0",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D5603AQEHPZBFCcs7pg/profile-displayphoto-crop_800_800/B56ZpKYxEFI4AI-/0/1762184622110?e=1781740800&v=beta&t=dda-Cb-qMAfmjj229OZGjSbgw5yMGQ-joFAjFU6qeQ8"
+    },
+    "stats": {
+      "total_reactions": 16,
+      "like": 15,
+      "support": 0,
+      "love": 1,
+      "insight": 0,
+      "celebrate": 0,
+      "funny": 0,
+      "comments": 0,
+      "reposts": 0
+    },
+    "media": {
+      "type": "image",
+      "url": "https://media.licdn.com/dms/image/v2/D4D22AQHFn25haNPjtg/feedshare-image-high-res/B4DZomXOn0GwAo-/0/1761580216260?e=1781740800&v=beta&t=AjTXPtVMP63yokYNvD0mcCjgyNdrFsMfQIEhk7yROZg",
+      "images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQHFn25haNPjtg/feedshare-image-high-res/B4DZomXOn0GwAo-/0/1761580216260?e=1781740800&v=beta&t=AjTXPtVMP63yokYNvD0mcCjgyNdrFsMfQIEhk7yROZg",
+          "width": 2048,
+          "height": 1331
+        }
+      ]
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjczMzkxNTkxMDg4NTM0MjAwMzItMTc0OTc5MTg4NjQ5OA=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7388280585854791681",
+      "share_urn": "7388280584915292160",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7388280585854791681",
+    "posted_at": {
+      "date": "2025-10-26 19:29:19",
+      "relative": "7 months ago • Edited • Visible to anyone on or off LinkedIn",
+      "timestamp": 1761503359283
+    },
+    "text": "🚀 Starting My 75-Day Hard Coding Challenge! 🚀\nToday marks Day 1 of my #75DayHardChallenge — my mission is to write code and upload a new project or file every single day for the next 75 days!\nI’ll be working with Python, C++, HTML, CSS, JavaScript, and more—building my skills, trying new things, and learning in public.\nCheck out my journey and daily progress here:\n👉 https://lnkd.in/eR-XEbvi\nIf you’re looking to grow your skills or need some motivation, join me in this challenge or follow along! Let’s learn together, one day at a time.\n#CodingJourney #75DaysOfCode #DailyCoding #CodeEveryDay #Python #Developer #Motivation #ChallengeYourself",
+    "url": "https://www.linkedin.com/posts/quantumanant01_75dayhardchallenge-codingjourney-75daysofcode-activity-7388280585854791681-AXYd?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGlCOOkB_iC-PaqA8um2cpOF-vg31hOE7x8",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Anant",
+      "last_name": "Kumar",
+      "headline": "Chief Executive Officer @ Founders Verbinden | Artificial Intelligence, Machine Learning",
+      "username": "quantumanant01",
+      "profile_url": "https://www.linkedin.com/in/quantumanant01?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAFlkXo4BoqSshmx3wOEx8mBKLWcbdPLS-H0",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D5603AQEHPZBFCcs7pg/profile-displayphoto-crop_800_800/B56ZpKYxEFI4AI-/0/1762184622110?e=1781740800&v=beta&t=dda-Cb-qMAfmjj229OZGjSbgw5yMGQ-joFAjFU6qeQ8"
+    },
+    "stats": {
+      "total_reactions": 11,
+      "like": 11,
+      "support": 0,
+      "love": 0,
+      "insight": 0,
+      "celebrate": 0,
+      "funny": 0,
+      "comments": 0,
+      "reposts": 0
+    },
+    "media": {
+      "type": "image",
+      "url": "https://media.licdn.com/dms/image/v2/D4E22AQEOB7eXHBBMHQ/feedshare-image-high-res/B4EZohyBdSGYAs-/0/1761503358160?e=1781740800&v=beta&t=P-kc9nS2lHYm8WMZnEPCvTe92qL5T4dhxOVTG35O66o",
+      "images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQEOB7eXHBBMHQ/feedshare-image-high-res/B4EZohyBdSGYAs-/0/1761503358160?e=1781740800&v=beta&t=P-kc9nS2lHYm8WMZnEPCvTe92qL5T4dhxOVTG35O66o",
+          "width": 2048,
+          "height": 1331
+        }
+      ]
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjczMzkxNTkxMDg4NTM0MjAwMzItMTc0OTc5MTg4NjQ5OA=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7388191218460942336",
+      "share_urn": "7388191217747984384",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7388191218460942336",
+    "posted_at": {
+      "date": "2025-10-26 13:34:12",
+      "relative": "7 months ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1761482052436
+    },
+    "text": "Day 1 of my #75dayhardchallenge! 🚀\nKicked off my journey by solving my 5th coding challenge on HackerRank. Excited for consistent growth, new learning, and more milestones ahead.\n#firstday #codingpractice #HackerRank #LPU #growthmindset #python #StudentLife",
+    "url": "https://www.linkedin.com/posts/quantumanant01_mr-kumar-720anant-on-hackerrank-activity-7388191218460942336-WFdj?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGlCOOkB_iC-PaqA8um2cpOF-vg31hOE7x8",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Anant",
+      "last_name": "Kumar",
+      "headline": "Chief Executive Officer @ Founders Verbinden | Artificial Intelligence, Machine Learning",
+      "username": "quantumanant01",
+      "profile_url": "https://www.linkedin.com/in/quantumanant01?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAFlkXo4BoqSshmx3wOEx8mBKLWcbdPLS-H0",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D5603AQEHPZBFCcs7pg/profile-displayphoto-crop_800_800/B56ZpKYxEFI4AI-/0/1762184622110?e=1781740800&v=beta&t=dda-Cb-qMAfmjj229OZGjSbgw5yMGQ-joFAjFU6qeQ8"
+    },
+    "stats": {
+      "total_reactions": 5,
+      "like": 5,
+      "support": 0,
+      "love": 0,
+      "insight": 0,
+      "celebrate": 0,
+      "funny": 0,
+      "comments": 0,
+      "reposts": 0
+    },
+    "media": {
+      "type": "image",
+      "url": "https://media.licdn.com/dms/image/sync/v2/D4E27AQEwBjhOFJvJSQ/articleshare-shrink_160/B4EZogcl1XIwAk-/0/1761480957835?e=1780963200&v=beta&t=yR5qgrQDxwlkxV5V-2ygV9cs3DbMPUMrs0Be77SboLc"
+    },
+    "article": {
+      "url": "https://www.hackerrank.com/720anant?badge=python&stars=1&level=1&utm_campaign=social-buttons&utm_medium=linkedin&utm_source=badge_share_profile&social=linkedin",
+      "title": "Mr Kumar (720anant) on HackerRank",
+      "subtitle": "hackerrank.com",
+      "thumbnail": "https://media.licdn.com/dms/image/sync/v2/D4E27AQEwBjhOFJvJSQ/articleshare-shrink_160/B4EZogcl1XIwAk-/0/1761480957835?e=1780963200&v=beta&t=yR5qgrQDxwlkxV5V-2ygV9cs3DbMPUMrs0Be77SboLc"
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjczMzkxNTkxMDg4NTM0MjAwMzItMTc0OTc5MTg4NjQ5OA=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7386766057555775488",
+      "share_urn": "7386766056758984706",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7386766057555775488",
+    "posted_at": {
+      "date": "2025-10-22 16:11:07",
+      "relative": "7 months ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1761142267598
+    },
+    "text": "🚀 Your College Teaches You. Our Device Gets You Hired.\n\nUnlox is here with India’s 1st  Educational Tablet– a complete placement machine that takes you from *classroom* ➡ *interview room* ➡ *offer letter* in record time.\n\n🎯 Why Students Call This a Game Changer\n\n✅ *Dedicated Tablet* Delivered to Your Doorstep – Learn & work anywhere.\n✅ *Guaranteed Career Opportunities*\n✅ *Learn from the Best* – experts from Google, Mastercard, Boeing, Microsoft & more.\n✅ *SmartLab Access* –Virtual cloud to run any software, no hardware required for your projects. .\n✅ *PrepFree Portal* – Resume, mock interviews & job portals ready for you.\n✅ *BLU AI Mentor* – 24×7 personal trainer in 12+ languages.\n\n*👉 Join Now:* https://lnkd.in/eQ6JeD4c\n\n⚡ Limited WhatsApp-Only Access –Get details & early seat before it's gone!\n\n#lpu #computerscience #cse",
+    "url": "https://www.linkedin.com/posts/quantumanant01_lpu-computerscience-cse-activity-7386766057555775488-qGom?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGlCOOkB_iC-PaqA8um2cpOF-vg31hOE7x8",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Anant",
+      "last_name": "Kumar",
+      "headline": "Chief Executive Officer @ Founders Verbinden | Artificial Intelligence, Machine Learning",
+      "username": "quantumanant01",
+      "profile_url": "https://www.linkedin.com/in/quantumanant01?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAFlkXo4BoqSshmx3wOEx8mBKLWcbdPLS-H0",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D5603AQEHPZBFCcs7pg/profile-displayphoto-crop_800_800/B56ZpKYxEFI4AI-/0/1762184622110?e=1781740800&v=beta&t=dda-Cb-qMAfmjj229OZGjSbgw5yMGQ-joFAjFU6qeQ8"
+    },
+    "stats": {
+      "total_reactions": 3,
+      "like": 3,
+      "support": 0,
+      "love": 0,
+      "insight": 0,
+      "celebrate": 0,
+      "funny": 0,
+      "comments": 0,
+      "reposts": 0
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjczMzkxNTkxMDg4NTM0MjAwMzItMTc0OTc5MTg4NjQ5OA=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7386761722314792960",
+      "share_urn": "7386761721434251264",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7386761722314792960",
+    "posted_at": {
+      "date": "2025-10-22 15:53:53",
+      "relative": "7 months ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1761141233996
+    },
+    "text": "🚀 Kickstart Your Career with MINDENIOUS!\n\nLooking to stand out in campus placements or make your resume shine?  Take the next step in your professional journey with our *2-Month Training & Internship Program, specially designed to provide industry-relevant skills, real-world exposure, and an edge in today’s competitive job market.\n\n\n📚 Choose from In-Demand Domains (Applicable for Training, Internship & Placement Assurance Program):\n\n1️⃣ CSE / ISE / CSBS\n2️⃣ ECE / EEE\n3️⃣ Mechanical / Automobile\n4️⃣ Civil / Architecture\n5️⃣ Management\n6️⃣ Biomedical\n7️⃣ Psychology\n\n🔗 Apply Now:\nhttps://lnkd.in/eqGXwnTM\n📌 Referral Code: LPU29\n\n💼 What You’ll Gain – Boost Your Resume and Career Readiness:\n\n✅ Training Completion Certificate – Demonstrate domain knowledge\n✅ Internship Completion Certificate – Showcase hands-on experience\n✅ Excellence Performance Certificate – Highlight your standout contributions\n✅ Letter of Recommendation (LOR) – Add credibility from industry mentors\n✅ Placement-Ready Projects & Practical Exposure – Talk about real work in interviews\n✅ Soft Skills & Career Guidance – Improve your communication and confidence\n\nWhether you're preparing for campus placements or future job interviews, this program will help you build a powerful resume that gets noticed by recruiters!\n\n\n💰 Program Fees (Applicable Across All Domains):\n💡 Affordable investment, long-term career benefits.\n\n\n📌 Referral Code: LPU29\n🔗 Apply Now:\nhttps://lnkd.in/eqGXwnTM\n\n\n🎯 Make your profile placement-ready with practical skills and certificates recruiters value!\n🌟 Elevate your intellect. Empower your future. Join Mindenious today!",
+    "url": "https://www.linkedin.com/posts/quantumanant01_kickstart-your-career-with-mindenious-activity-7386761722314792960-eWfV?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGlCOOkB_iC-PaqA8um2cpOF-vg31hOE7x8",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Anant",
+      "last_name": "Kumar",
+      "headline": "Chief Executive Officer @ Founders Verbinden | Artificial Intelligence, Machine Learning",
+      "username": "quantumanant01",
+      "profile_url": "https://www.linkedin.com/in/quantumanant01?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAFlkXo4BoqSshmx3wOEx8mBKLWcbdPLS-H0",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D5603AQEHPZBFCcs7pg/profile-displayphoto-crop_800_800/B56ZpKYxEFI4AI-/0/1762184622110?e=1781740800&v=beta&t=dda-Cb-qMAfmjj229OZGjSbgw5yMGQ-joFAjFU6qeQ8"
+    },
+    "stats": {
+      "total_reactions": 2,
+      "like": 2,
+      "support": 0,
+      "love": 0,
+      "insight": 0,
+      "celebrate": 0,
+      "funny": 0,
+      "comments": 0,
+      "reposts": 0
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjczMzkxNTkxMDg4NTM0MjAwMzItMTc0OTc5MTg4NjQ5OA=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7385331151177154560",
+      "share_urn": null,
+      "ugcPost_urn": "7385331150220709888"
+    },
+    "full_urn": "urn:li:ugcPost:7385331150220709888",
+    "posted_at": {
+      "date": "2025-10-18 17:09:19",
+      "relative": "7 months ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1760800159258
+    },
+    "text": "Proud to earn the “Leadership and Teams” certificate from Saylor Academy! Excited to use these new skills in upcoming projects.\nSee my certificate: https://lnkd.in/e4mUCk3v\n#Leadership #SaylorAcademy #Growth",
+    "url": "https://www.linkedin.com/posts/quantumanant01_leadership-sayloracademy-growth-activity-7385331151177154560-y-Yc?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGlCOOkB_iC-PaqA8um2cpOF-vg31hOE7x8",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Anant",
+      "last_name": "Kumar",
+      "headline": "Chief Executive Officer @ Founders Verbinden | Artificial Intelligence, Machine Learning",
+      "username": "quantumanant01",
+      "profile_url": "https://www.linkedin.com/in/quantumanant01?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAFlkXo4BoqSshmx3wOEx8mBKLWcbdPLS-H0",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D5603AQEHPZBFCcs7pg/profile-displayphoto-crop_800_800/B56ZpKYxEFI4AI-/0/1762184622110?e=1781740800&v=beta&t=dda-Cb-qMAfmjj229OZGjSbgw5yMGQ-joFAjFU6qeQ8"
+    },
+    "stats": {
+      "total_reactions": 16,
+      "like": 15,
+      "support": 1,
+      "love": 0,
+      "insight": 0,
+      "celebrate": 0,
+      "funny": 0,
+      "comments": 0,
+      "reposts": 0
+    },
+    "media": {
+      "type": "images",
+      "url": "https://media.licdn.com/dms/image/v2/D4E22AQHsA78LTgXQpg/feedshare-image-high-res/B4EZn33iHDKYAo-/0/1760800157555?e=1781740800&v=beta&t=j4cjtX_Ri53rnZ04tgYiwJ2X-1Re10AaeLBgYXslWf8",
+      "images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQHsA78LTgXQpg/feedshare-image-high-res/B4EZn33iHDKYAo-/0/1760800157555?e=1781740800&v=beta&t=j4cjtX_Ri53rnZ04tgYiwJ2X-1Re10AaeLBgYXslWf8",
+          "width": 1826,
+          "height": 1412
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQHruSfV1gXemg/feedshare-image-high-res/B4EZn33iHiHcAo-/0/1760800157260?e=1781740800&v=beta&t=9AkymiJ2zp6UCn1Gepu-cw6L0WlWm_9eyXQ-L_aGl2E",
+          "width": 1850,
+          "height": 1422
+        }
+      ]
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjczMzkxNTkxMDg4NTM0MjAwMzItMTc0OTc5MTg4NjQ5OA=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7381235356320440320",
+      "share_urn": "7381235355347210241",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7381235356320440320",
+    "posted_at": {
+      "date": "2025-10-07 09:54:05",
+      "relative": "7 months ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1759823645668
+    },
+    "text": "Delighted to share that I have completed the “MA Time Management” course offered by Tech Mahindra Foundation through Skill India Digital Hub. Grateful for the opportunity to upskill and stay future-ready. Certified on October 7, 2025.\n\nhttps://lnkd.in/ep6Nwnmh",
+    "url": "https://www.linkedin.com/posts/quantumanant01_delighted-to-share-that-i-have-completed-activity-7381235356320440320-2qJP?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGlCOOkB_iC-PaqA8um2cpOF-vg31hOE7x8",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Anant",
+      "last_name": "Kumar",
+      "headline": "Chief Executive Officer @ Founders Verbinden | Artificial Intelligence, Machine Learning",
+      "username": "quantumanant01",
+      "profile_url": "https://www.linkedin.com/in/quantumanant01?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAFlkXo4BoqSshmx3wOEx8mBKLWcbdPLS-H0",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D5603AQEHPZBFCcs7pg/profile-displayphoto-crop_800_800/B56ZpKYxEFI4AI-/0/1762184622110?e=1781740800&v=beta&t=dda-Cb-qMAfmjj229OZGjSbgw5yMGQ-joFAjFU6qeQ8"
+    },
+    "stats": {
+      "total_reactions": 10,
+      "like": 10,
+      "support": 0,
+      "love": 0,
+      "insight": 0,
+      "celebrate": 0,
+      "funny": 0,
+      "comments": 0,
+      "reposts": 0
+    },
+    "media": {
+      "type": "image",
+      "url": "https://media.licdn.com/dms/image/v2/D4E22AQEzg-KmMIfWfw/feedshare-image-high-res/B4EZm9qbWkGUAs-/0/1759823644442?e=1781740800&v=beta&t=NG2HXkK8WZmi1-1RxRny8HgsE7t3M99q60wL_09A1y4",
+      "images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQEzg-KmMIfWfw/feedshare-image-high-res/B4EZm9qbWkGUAs-/0/1759823644442?e=1781740800&v=beta&t=NG2HXkK8WZmi1-1RxRny8HgsE7t3M99q60wL_09A1y4",
+          "width": 2048,
+          "height": 1321
+        }
+      ]
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjczMzkxNTkxMDg4NTM0MjAwMzItMTc0OTc5MTg4NjQ5OA=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7377731558473900032",
+      "share_urn": "7377731557563764737",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7377731558473900032",
+    "posted_at": {
+      "date": "2025-09-27 17:51:15",
+      "relative": "8 months ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1758988275164
+    },
+    "text": "🎉 Excited to Introduce ShareMaison! 🎉\n\nAs a B.Tech AI/ML student at Lovely Professional University, I'm thrilled to launch ShareMaison – an innovative all-in-one rental platform designed specifically for students. This community makes borrowing, lending, and sharing resources like gadgets, books, and gear easier, more efficient, and enjoyable, helping you navigate college life with greater convenience.\n\nWhether you're looking to share your items, find the perfect gear for your next project or event, or contribute ideas to enhance the platform, your participation is key.\n\nTake just 2 minutes to complete this quick survey and help shape ShareMaison into the ultimate student-friendly rental solution: https://lnkd.in/ejQg2DXi\n\nYour insights will drive smarter, simpler, and more social renting experiences. Thank you for joining the ShareMaison community – let's build something great together! 🙌\n\n#StudentLife #Entrepreneurship #RentalPlatform #CollegeInnovation #ShareMaison #LPU",
+    "url": "https://www.linkedin.com/posts/quantumanant01_sharemaison-item-rental-request-form-structure-activity-7377731558473900032-I1CH?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGlCOOkB_iC-PaqA8um2cpOF-vg31hOE7x8",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Anant",
+      "last_name": "Kumar",
+      "headline": "Chief Executive Officer @ Founders Verbinden | Artificial Intelligence, Machine Learning",
+      "username": "quantumanant01",
+      "profile_url": "https://www.linkedin.com/in/quantumanant01?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAFlkXo4BoqSshmx3wOEx8mBKLWcbdPLS-H0",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D5603AQEHPZBFCcs7pg/profile-displayphoto-crop_800_800/B56ZpKYxEFI4AI-/0/1762184622110?e=1781740800&v=beta&t=dda-Cb-qMAfmjj229OZGjSbgw5yMGQ-joFAjFU6qeQ8"
+    },
+    "stats": {
+      "total_reactions": 2,
+      "like": 2,
+      "support": 0,
+      "love": 0,
+      "insight": 0,
+      "celebrate": 0,
+      "funny": 0,
+      "comments": 0,
+      "reposts": 0
+    },
+    "media": {
+      "type": "image",
+      "url": "https://media.licdn.com/dms/image/sync/v2/D4E27AQG2NMzxftaBmQ/articleshare-shrink_1280_800/B4EZmL3nGnKcAU-/0/1761482065448?e=1780963200&v=beta&t=zc5jICVX0Q6EHjB3VCF8D7xaj_mFSDMPz6cc7DwW4KI"
+    },
+    "article": {
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSfGWE66zHzkzAT4s_Beq3fbEPlCeo1ChZq5NLTL4sjZMImnqg/viewform?usp=header",
+      "title": "ShareMaison- Item Rental Request Form Structure",
+      "subtitle": "docs.google.com",
+      "thumbnail": "https://media.licdn.com/dms/image/sync/v2/D4E27AQG2NMzxftaBmQ/articleshare-shrink_1280_800/B4EZmL3nGnKcAU-/0/1761482065448?e=1780963200&v=beta&t=zc5jICVX0Q6EHjB3VCF8D7xaj_mFSDMPz6cc7DwW4KI"
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjczMzkxNTkxMDg4NTM0MjAwMzItMTc0OTc5MTg4NjQ5OA=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7373438224981053440",
+      "share_urn": "7373438223986958336",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7373438224981053440",
+    "posted_at": {
+      "date": "2025-09-15 21:31:04",
+      "relative": "8 months ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1757964664693
+    },
+    "url": "https://www.linkedin.com/posts/quantumanant01_activity-7373438224981053440-hOwh?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGlCOOkB_iC-PaqA8um2cpOF-vg31hOE7x8",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Anant",
+      "last_name": "Kumar",
+      "headline": "Chief Executive Officer @ Founders Verbinden | Artificial Intelligence, Machine Learning",
+      "username": "quantumanant01",
+      "profile_url": "https://www.linkedin.com/in/quantumanant01?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAFlkXo4BoqSshmx3wOEx8mBKLWcbdPLS-H0",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D5603AQEHPZBFCcs7pg/profile-displayphoto-crop_800_800/B56ZpKYxEFI4AI-/0/1762184622110?e=1781740800&v=beta&t=dda-Cb-qMAfmjj229OZGjSbgw5yMGQ-joFAjFU6qeQ8"
+    },
+    "stats": {
+      "total_reactions": 5,
+      "like": 5,
+      "support": 0,
+      "love": 0,
+      "insight": 0,
+      "celebrate": 0,
+      "funny": 0,
+      "comments": 0,
+      "reposts": 0
+    },
+    "media": {
+      "type": "image",
+      "url": "https://media.licdn.com/dms/image/v2/D4E22AQELeEvcWuK2HA/feedshare-image-high-res/B4EZlO2.3iGYAo-/0/1757964663728?e=1781740800&v=beta&t=kxDQ9R7TFHbOul5I3z9hQmrATRipMfrMwUfwW0rzL2U",
+      "images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQELeEvcWuK2HA/feedshare-image-high-res/B4EZlO2.3iGYAo-/0/1757964663728?e=1781740800&v=beta&t=kxDQ9R7TFHbOul5I3z9hQmrATRipMfrMwUfwW0rzL2U",
+          "width": 1080,
+          "height": 1080
+        }
+      ]
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjczMzkxNTkxMDg4NTM0MjAwMzItMTc0OTc5MTg4NjQ5OA=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7372549588672552960",
+      "share_urn": "7372549587599015936",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7372549588672552960",
+    "posted_at": {
+      "date": "2025-09-13 10:39:57",
+      "relative": "8 months ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1757752797287
+    },
+    "text": "Proud to volunteer with Unit Sahayog at the Hindustan Blood Donation Camp Rally in Phagwara—every drop counts, every step matters.\n\nGrateful for the teamwork, awareness, and service spirit that made the day impactful.\n\n#NSSLPU #UnitSahayog #BloodDonation #BeTheChange #Phagwara #LPU #CommunityService #Volunteer",
+    "url": "https://www.linkedin.com/posts/quantumanant01_nsslpu-unitsahayog-blooddonation-activity-7372549588672552960-voG-?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGlCOOkB_iC-PaqA8um2cpOF-vg31hOE7x8",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Anant",
+      "last_name": "Kumar",
+      "headline": "Chief Executive Officer @ Founders Verbinden | Artificial Intelligence, Machine Learning",
+      "username": "quantumanant01",
+      "profile_url": "https://www.linkedin.com/in/quantumanant01?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAFlkXo4BoqSshmx3wOEx8mBKLWcbdPLS-H0",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D5603AQEHPZBFCcs7pg/profile-displayphoto-crop_800_800/B56ZpKYxEFI4AI-/0/1762184622110?e=1781740800&v=beta&t=dda-Cb-qMAfmjj229OZGjSbgw5yMGQ-joFAjFU6qeQ8"
+    },
+    "stats": {
+      "total_reactions": 7,
+      "like": 6,
+      "support": 0,
+      "love": 0,
+      "insight": 0,
+      "celebrate": 1,
+      "funny": 0,
+      "comments": 1,
+      "reposts": 0
+    },
+    "media": {
+      "type": "image",
+      "url": "https://media.licdn.com/dms/image/v2/D4E22AQGKf0FTEwggfA/feedshare-image-high-res/B4EZlCOxmAGcAo-/0/1757752796182?e=1781740800&v=beta&t=jWr-h1ezpJVeQdUE6LpWiqRtY_ndm0EYSJzDaihc1Cc",
+      "images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQGKf0FTEwggfA/feedshare-image-high-res/B4EZlCOxmAGcAo-/0/1757752796182?e=1781740800&v=beta&t=jWr-h1ezpJVeQdUE6LpWiqRtY_ndm0EYSJzDaihc1Cc",
+          "width": 1080,
+          "height": 798
+        }
+      ]
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjczMzkxNTkxMDg4NTM0MjAwMzItMTc0OTc5MTg4NjQ5OA=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7371048690771337216",
+      "share_urn": null,
+      "ugcPost_urn": "7371048689890639872"
+    },
+    "full_urn": "urn:li:ugcPost:7371048689890639872",
+    "posted_at": {
+      "date": "2025-09-09 07:15:55",
+      "relative": "8 months ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1757394955342
+    },
+    "text": "Proud to have completed the Hands-on Bootcamp on Artificial Intelligence by BlockseBlock and OpenxAI. Grateful for the opportunity to gain practical AI skills and learn from industry leaders. Looking forward to applying this knowledge in future projects! #AI #Bootcamp #Learning #Achievement",
+    "url": "https://www.linkedin.com/posts/quantumanant01_certificate-activity-7371048690771337216-o4Pu?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGlCOOkB_iC-PaqA8um2cpOF-vg31hOE7x8",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Anant",
+      "last_name": "Kumar",
+      "headline": "Chief Executive Officer @ Founders Verbinden | Artificial Intelligence, Machine Learning",
+      "username": "quantumanant01",
+      "profile_url": "https://www.linkedin.com/in/quantumanant01?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAFlkXo4BoqSshmx3wOEx8mBKLWcbdPLS-H0",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D5603AQEHPZBFCcs7pg/profile-displayphoto-crop_800_800/B56ZpKYxEFI4AI-/0/1762184622110?e=1781740800&v=beta&t=dda-Cb-qMAfmjj229OZGjSbgw5yMGQ-joFAjFU6qeQ8"
+    },
+    "stats": {
+      "total_reactions": 9,
+      "like": 9,
+      "support": 0,
+      "love": 0,
+      "insight": 0,
+      "celebrate": 0,
+      "funny": 0,
+      "comments": 0,
+      "reposts": 0
+    },
+    "document": {
+      "title": "CERTIFICATE",
+      "page_count": 1,
+      "url": "https://media.licdn.com/dms/document/media/v2/D4E1FAQGDaOeS4795JA/feedshare-document-url-metadata-scrapper-pdf/B4EZks5altIMA0-/0/1757394875376?e=1780963200&v=beta&t=R1ThRb4iuOXPZfSbc91rViZaF4fkne57I_zYR70teFg",
+      "thumbnail": "https://media.licdn.com/dms/image/v2/D4E1FAQGDaOeS4795JA/feedshare-document-cover-images_1920/B4EZks5altIMAw-/0/1757394875681?e=1780963200&v=beta&t=HkMfq9F4zLqeGoxKQfBZv9VtIKZJg6ZC1U5gZ9YoxIg"
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjczMzkxNTkxMDg4NTM0MjAwMzItMTc0OTc5MTg4NjQ5OA=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7339177854456225793",
+      "share_urn": "7339177853621559296",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7339177854456225793",
+    "posted_at": {
+      "date": "2025-06-13 08:32:35",
+      "relative": "11 months ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1749796355833
+    },
+    "text": "I am pleased to confirm the completion of the HP LIFE 'AI for Beginners' online course, a valuable program by the LIFE Cup Foundation. This certification signifies a solid grasp of fundamental AI concepts, including its technological impact, data importance, business applications, and ethical considerations. I am prepared to integrate this understanding into professional contexts. #ArtificialIntelligence #SkillEnhancement #HPLIFE #CareerGrowth\"",
+    "url": "https://www.linkedin.com/posts/quantumanant01_hp-life-activity-7339177854456225793-JSka?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGlCOOkB_iC-PaqA8um2cpOF-vg31hOE7x8",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Anant",
+      "last_name": "Kumar",
+      "headline": "Chief Executive Officer @ Founders Verbinden | Artificial Intelligence, Machine Learning",
+      "username": "quantumanant01",
+      "profile_url": "https://www.linkedin.com/in/quantumanant01?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAFlkXo4BoqSshmx3wOEx8mBKLWcbdPLS-H0",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D5603AQEHPZBFCcs7pg/profile-displayphoto-crop_800_800/B56ZpKYxEFI4AI-/0/1762184622110?e=1781740800&v=beta&t=dda-Cb-qMAfmjj229OZGjSbgw5yMGQ-joFAjFU6qeQ8"
+    },
+    "stats": {
+      "total_reactions": 5,
+      "like": 4,
+      "support": 0,
+      "love": 0,
+      "insight": 0,
+      "celebrate": 1,
+      "funny": 0,
+      "comments": 2,
+      "reposts": 0
+    },
+    "media": {
+      "type": "image",
+      "url": "https://media.licdn.com/dms/image/sync/v2/D4E27AQEMmnUN28nuYA/articleshare-shrink_1280_800/B4EZdn.V5wH0AY-/0/1769609639769?e=1780963200&v=beta&t=PBbX8zV5cpTIRYw3343ztmJBJdteQWHh9yBiQCm1tSw"
+    },
+    "article": {
+      "url": "https://www.life-global.org/certificate/f46395dd-dcda-4c79-b11e-233298caf139",
+      "title": "HP LIFE",
+      "subtitle": "life-global.org",
+      "thumbnail": "https://media.licdn.com/dms/image/sync/v2/D4E27AQEMmnUN28nuYA/articleshare-shrink_1280_800/B4EZdn.V5wH0AY-/0/1769609639769?e=1780963200&v=beta&t=PBbX8zV5cpTIRYw3343ztmJBJdteQWHh9yBiQCm1tSw"
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjczMzkxNTkxMDg4NTM0MjAwMzItMTc0OTc5MTg4NjQ5OA=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7339159108853420032",
+      "share_urn": null,
+      "ugcPost_urn": "7339159100016021504"
+    },
+    "full_urn": "urn:li:ugcPost:7339159100016021504",
+    "posted_at": {
+      "date": "2025-06-13 07:18:06",
+      "relative": "11 months ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1749791886533
+    },
+    "text": "I just completed Tata Group's GenAI Powered Data Analytics on Forage. In the simulation I:\n\n  Completed a job simulation involving AI-powered data analytics and strategy\n   development for the Financial Services team at Tata iQ.\n  Conducted exploratory data analysis",
+    "url": "https://www.linkedin.com/posts/quantumanant01_forage-certificate-activity-7339159108853420032-0wlH?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGlCOOkB_iC-PaqA8um2cpOF-vg31hOE7x8",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Anant",
+      "last_name": "Kumar",
+      "headline": "Chief Executive Officer @ Founders Verbinden | Artificial Intelligence, Machine Learning",
+      "username": "quantumanant01",
+      "profile_url": "https://www.linkedin.com/in/quantumanant01?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAFlkXo4BoqSshmx3wOEx8mBKLWcbdPLS-H0",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D5603AQEHPZBFCcs7pg/profile-displayphoto-crop_800_800/B56ZpKYxEFI4AI-/0/1762184622110?e=1781740800&v=beta&t=dda-Cb-qMAfmjj229OZGjSbgw5yMGQ-joFAjFU6qeQ8"
+    },
+    "stats": {
+      "total_reactions": 5,
+      "like": 5,
+      "support": 0,
+      "love": 0,
+      "insight": 0,
+      "celebrate": 0,
+      "funny": 0,
+      "comments": 0,
+      "reposts": 0
+    },
+    "document": {
+      "title": "Forage certificate",
+      "page_count": 1,
+      "url": "https://media.licdn.com/dms/document/media/v2/D4E10AQFTgU3to0qqBw/ads-document-pdf-analyzed/B4EZdnuUCeHcAY-/0/1749791884677?e=1780963200&v=beta&t=GcbrAf-20IbaBzuk5Dq73Zk-o3o3xGGsIZgZ7XXW8C0",
+      "thumbnail": "https://media.licdn.com/dms/image/v2/D4E10AQFTgU3to0qqBw/ads-document-cover-images_1920/B4EZdnuUCeHcAw-/0/1749791884834?e=1780963200&v=beta&t=Rc3WKU5axPFTxlON-XqiaF_fcM36J7ISwnqjW7CgwQc"
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjczMzkxNTkxMDg4NTM0MjAwMzItMTc0OTc5MTg4NjQ5OA=="
+  }
+]
