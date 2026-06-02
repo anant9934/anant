@@ -508,10 +508,6 @@ All-in-one community rental platform for LPU students — gadgets, books, gear. 
 
 <div align="center">
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
 **I'm a Night 🦉** 
 
 ```text
