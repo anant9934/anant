@@ -494,11 +494,11 @@ All-in-one community rental platform for LPU students — gadgets, books, gear. 
 
 ---
 
-## 🌌 Deep Space Skyline & Contributions
+## 🏝️ My Little World
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/anant9934/anant/main/profile-3d-contrib/profile-gitblock.svg" width="95%" />
+<img src="https://i.giphy.com/media/10IEUy0f5V3WLu/giphy.webp" width="60%" />
 
 </div>
 
