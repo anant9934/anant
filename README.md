@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/GitHub-anant9934-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://amzn.in/d/03DEKr5u" target="_blank">
+<a href="https://amzn.in/d/0dDjCQjb" target="_blank">
   <img src="https://img.shields.io/badge/Amazon-The%20Rhythm%20Code-FF9900?style=for-the-badge&logo=amazon&logoColor=white" />
 </a>
 &nbsp;
@@ -44,7 +44,7 @@
 ║                     ║  CEO & Co-Founder @ Founders Verbinden                 ║
 ║                     ║  Founder @ QuickDorm                                   ║
 ╠═════════════════════╬══════════════════════════════════════════════════════════╣
-║      Author         ║  📘 "The Rhythm Code" — Available on Amazon            ║
+║      Author         ║  📘 "The Rhythm Code" ⭐5.0 — Published Mar 2026       ║
 ╠═════════════════════╬══════════════════════════════════════════════════════════╣
 ║      Recognition    ║  OpenXAI India Accelerator 2025 — Shortlisted          ║
 ║                     ║  Hack India 2025 — Participant                         ║
@@ -153,14 +153,24 @@ Explored various programming languages, gained exposure to hackathon workflows, 
 
 <div align="center">
 
-> **"The Rhythm Code"** — *Available on Amazon India*
+> ### 📘 The Rhythm Code
+> **Ancient Wisdom for Modern Burnout: A Science-Backed Guide to Energy, Focus, Circadian Health and Stress Recovery**
 >
-> Studied **circadian biology, neuroscience, and ancient systems like Ayurveda** to build a working performance model.
-> A 7-day reset + 30-day structure for long-term energy. Not a feel-good book — a **system**.
+> **Kindle Edition** · ⭐ **5.0 / 5** (Rated on Amazon) · ₹249 or FREE with Kindle Unlimited
+>
+> **Authors:** [Anant Kumar](https://www.linkedin.com/in/quantumanant01) · Shivam Kumar Singh · Vinita Kashyap
+>
+> *Published: March 14, 2026*
+>
+> *"Why are you always tired, even after eight hours of sleep?*
+> *Modern life has disrupted the natural rhythms your body needs for energy, focus, metabolism, and mental clarity."*
+>
+> Mixes **thousands of years of Ayurvedic wisdom** with current research in **neuroscience, chronobiology, and metabolic health**.
+> Built like a system, not a story — 7-day reset + 30-day structure for long-term energy.
 >
 > *"If you feel like your effort ≠ output, this is the layer you're missing."*
 >
-> 📖 [Read on Amazon →](https://amzn.in/d/03DEKr5u)
+> 📖 [Read on Amazon India →](https://amzn.in/d/0dDjCQjb)
 
 </div>
 
@@ -292,10 +302,12 @@ All-in-one community rental platform for LPU students — gadgets, books, gear. 
 </td>
 <td width="50%">
 
-### 📘 The Rhythm Code — Published Book
-> `Writing` `Neuroscience` `Circadian Biology` `Ayurveda`
+### 📘 The Rhythm Code — Published Book ⭐5.0
+> `Writing` `Neuroscience` `Circadian Biology` `Ayurveda` `Chronobiology`
 
-**Published on Amazon India.** A system-based book on peak performance using circadian biology, neuroscience, and ancient Ayurveda principles.
+**Published March 2026 on Amazon India (Kindle).** Co-authored with **Shivam Kumar Singh & Vinita Kashyap**. A science-backed guide to energy, focus, circadian health and stress recovery. ₹249 / FREE on Kindle Unlimited.
+
+📖 [Amazon →](https://amzn.in/d/0dDjCQjb)
 
 </td>
 </tr>
@@ -487,9 +499,9 @@ All-in-one community rental platform for LPU students — gadgets, books, gear. 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anant9934/anant9934/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anant9934/anant9934/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anant9934/anant9934/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anant9934/anant/output/dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anant9934/anant/output/dist/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anant9934/anant/output/dist/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
@@ -512,8 +524,8 @@ All-in-one community rental platform for LPU students — gadgets, books, gear. 
   <img src="https://img.shields.io/badge/Email-720anant%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://amzn.in/d/03DEKr5u">
-  <img src="https://img.shields.io/badge/Amazon-The%20Rhythm%20Code-FF9900?style=for-the-badge&logo=amazon&logoColor=white" />
+<a href="https://amzn.in/d/0dDjCQjb">
+  <img src="https://img.shields.io/badge/Amazon-The%20Rhythm%20Code%20⭐5.0-FF9900?style=for-the-badge&logo=amazon&logoColor=white" />
 </a>
 
 <br/><br/>
