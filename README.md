@@ -506,7 +506,7 @@ All-in-one community rental platform for LPU students — gadgets, books, gear. 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/anant9934/anant/main/profile-3d-contrib/profile-night-view.svg" width="95%" />
+<img src="https://raw.githubusercontent.com/anant9934/anant/main/profile-3d-contrib/profile-gitblock.svg" width="95%" />
 
 </div>
 
