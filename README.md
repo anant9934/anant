@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:0a0a2e,60:0d1b4b,100:1a1a4e&height=220&section=header&text=ANANT%20KUMAR&fontSize=65&fontAlignY=38&fontColor=ffffff&desc=Builder%20%E2%80%A2%20Founder%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Author&descAlignY=60&descSize=18&animation=twinkling" width="100%" />
+<img src="assets/space-banner.svg" width="100%" alt="Anant Kumar Space Banner" />
 
 <br/>
 
@@ -409,9 +409,9 @@ All-in-one community rental platform for LPU students — gadgets, books, gear. 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anant9934&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00d4ff&icon_color=7c83fd&text_color=c9d1d9&border_color=1a1a2e&count_private=true&rank_icon=github" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=anant9934&show_icons=true&theme=tokyonight&bg_color=050514&title_color=00d4ff&icon_color=7c83fd&text_color=c9d1d9&border_color=1a1a2e&count_private=true&rank_icon=github" height="180" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anant9934&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_color=1a1a2e&langs_count=8" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anant9934&layout=compact&theme=tokyonight&bg_color=050514&title_color=00d4ff&text_color=c9d1d9&border_color=1a1a2e&langs_count=8" height="180" />
 
 </div>
 
@@ -423,7 +423,7 @@ All-in-one community rental platform for LPU students — gadgets, books, gear. 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anant9934&bg_color=0d1117&color=00d4ff&line=7c83fd&point=ffffff&area=true&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anant9934&bg_color=050514&color=00d4ff&line=7c83fd&point=ffffff&area=true&hide_border=true" width="95%" />
 
 </div>
 
