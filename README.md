@@ -498,8 +498,17 @@ All-in-one community rental platform for LPU students — gadgets, books, gear. 
 
 <div align="center">
 
-<img src="https://i.giphy.com/media/10IEUy0f5V3WLu/giphy.webp" width="60%" />
+<img id="dynamic-island" src="https://i.giphy.com/media/TEILCythSScYyaaEDK/giphy.webp" width="60%" />
 
+</div>
+
+---
+
+## ⏳ WakaTime Coding Stats
+
+<div align="center">
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 </div>
 
 ---
