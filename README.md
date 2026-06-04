@@ -509,8 +509,36 @@ All-in-one community rental platform for LPU students — gadgets, books, gear. 
 <div align="center">
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
 
- Last Updated on 03/06/2026 03:54:35 UTC
+```text
+🌞 Morning                91 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+🌆 Daytime                94 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+🌃 Evening                138 commits         ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
+🌙 Night                  246 commits         ███████████░░░░░░░░░░░░░░   43.23 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+Tuesday                  162 commits         ███████░░░░░░░░░░░░░░░░░░   28.47 % 
+Wednesday                99 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
+Thursday                 81 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+Friday                   49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+Saturday                 79 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
+Sunday                   57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 04/06/2026 03:48:17 UTC
 <!--END_SECTION:waka-->
 </div>
 
