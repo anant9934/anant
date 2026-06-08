@@ -498,7 +498,7 @@ All-in-one community rental platform for LPU students — gadgets, books, gear. 
 
 <div align="center">
 
-<img id="dynamic-island" src="https://media.giphy.com/media/3o7TKrEzvLbgzGgJeq/giphy.gif" width="60%" />
+<img id="dynamic-island" src="https://i.giphy.com/media/TEILCythSScYyaaEDK/giphy.webp" width="60%" />
 
 </div>
 
